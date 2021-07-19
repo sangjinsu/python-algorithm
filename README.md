@@ -9,6 +9,7 @@
 
 | Date       | Name        | Site                                             | Solved                                                       |
 | ---------- | ----------- | ------------------------------------------------ | ------------------------------------------------------------ |
+| 2021.07.20 | 에디터 | [boj 1874](https://www.acmicpc.net/problem/1874) | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/stack/boj_1406.py) |
 | 2021.07.19 | 스택 수열 | [boj 1874](https://www.acmicpc.net/problem/1874) | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/stack/boj_1874.py) |
 | 2021.07.18 | 단어 뒤집기 | [boj 9093](https://www.acmicpc.net/problem/9093) | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/stack/boj_9093.py) |
 | 2021.07.18 | 괄호        | [boj 9012](https://www.acmicpc.net/problem/9012) | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/stack/boj_9012.py) |
