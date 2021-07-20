@@ -20,7 +20,7 @@
 | 2021.07.19 | 완주하지 못한 선수 | [해시](https://programmers.co.kr/learn/courses/30/lessons/42576) | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/programmers/level1/%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%EB%AA%BB%ED%95%9C%EC%84%A0%EC%88%98.py) |
 | 2021.07.19 | 모의고사 | [완전탐색](https://programmers.co.kr/learn/courses/30/lessons/42840?language=python3) | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/programmers/level1/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.py) |
 
-## SW EXPERT ACADEY
+## SW EXPERT ACADEMY
 
 | Date       | Name        | Site                                 | Type     | level      | Solved                                                       |
 | ---------- | ----------- | --------------------------------------|---------- | ----|-------------------------------------------------------- |
