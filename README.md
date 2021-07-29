@@ -6,8 +6,8 @@
 
 | Date       | Name        | Site               |                   Type           | Solved                                                       | visualize |
 | ---------- | ----------- | --------------------|---------------------------- | ------------------------------------------------------------ | ---- |
-| 2021.07.29 | 후위표기식 | [1918](https://www.acmicpc.net/problem/1918) | stack | [solved]​(​https://github.com/jinsuSang/python-algorithm/blob/main/boj/stack/boj_1918.py):heavy_check_mark: |  |
-| 2021.07.29 | 오큰등수 | [17299](https://www.acmicpc.net/problem/17299) | stack | [solved]​(https://github.com/jinsuSang/python-algorithm/blob/main/boj/stack/boj17299.py​):heavy_check_mark: |  |
+| 2021.07.29 | 후위표기식 | [1918](https://www.acmicpc.net/problem/1918) | stack | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/stack/boj_1918.py):heavy_check_mark: |  |
+| 2021.07.29 | 오큰등수 | [17299](https://www.acmicpc.net/problem/17299) | stack | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/stack/boj17299.py):heavy_check_mark: |  |
 | 2021.07.28 | 오큰수 | [17298](https://www.acmicpc.net/problem/17298) | stack | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/stack/boj_17298.py):heavy_check_mark: |  |
 | 2021.07.27 | 쇠막대기 | [10799](https://www.acmicpc.net/problem/10799) | stack | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/stack/boj_10799.py) |  |
 | 2021.07.27 | 단어 뒤집기 2 | [17413](https://www.acmicpc.net/problem/17413) | deque | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/deque/boj_17413.py) |  |
