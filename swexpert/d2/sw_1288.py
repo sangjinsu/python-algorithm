@@ -8,7 +8,7 @@ for i in range(1, test_cases + 1):
     while nums:
         N += 1
         sheep = N * num
-        digits = list(str(sheep))
+        digits = str(sheep)
 
         for digit in digits:
             if digit in nums:
