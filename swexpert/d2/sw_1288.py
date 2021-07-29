@@ -1,18 +1,19 @@
+test_cases = int(input())
 
-T = int(input())
-
-for test_case in range(1, T + 1):
+for i in range(1, test_cases + 1):
+    nums = [str(i) for i in range(10)]
     num = int(input())
-    nums = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9']
 
     N = 0
-    while len(nums) > 0:
+    while nums:
         N += 1
         sheep = N * num
         digits = list(str(sheep))
-        print(digits)
+
         for digit in digits:
             if digit in nums:
                 nums.remove(digit)
+
     result = N * num
-    print('#{} {}'.format(test_case, result))
+    print('#{} {}'.format(i, result))
+
