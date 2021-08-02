@@ -6,6 +6,8 @@
 
 | Date       | Name        | Site               |                   Type           | Solved                                                       | visualize |
 | ---------- | ----------- | --------------------|---------------------------- | ------------------------------------------------------------ | ---- |
+| 2021.08.02 | 단어 길이 재기 | [2743](https://www.acmicpc.net/problem/2743) | implement | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/implementation/boj_2743.py) |  |
+| 2021.08.02 | ROT13 | [11655](https://www.acmicpc.net/problem/11655) | implement | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/implementation/boj_11655.py) |                                                              |
 | 2021.08.02 | 더하기 사이클 | [1110](https://www.acmicpc.net/problem/1110) | implement | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/implementation/boj_1110.py) |  |
 | 2021.08.02 | 문자열 분석 | [10820](https://www.acmicpc.net/problem/10820) | implement | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/implementation/boj_10820.py) |  |
 | 2021.08.02 | 알파벳 찾기 | [10809](https://www.acmicpc.net/problem/10809) | implement | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/implementation/boj_10809.py) |  |
