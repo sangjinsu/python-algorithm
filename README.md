@@ -6,6 +6,11 @@
 
 | Date       | Name        | Site               |                   Type           | Solved                                                       | visualize |
 | ---------- | ----------- | --------------------|---------------------------- | ------------------------------------------------------------ | ---- |
+| 2021.08.02 | 더하기 사이클 | [1110](https://www.acmicpc.net/problem/1110) | implement | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/implementation/boj_1110.py) |  |
+| 2021.08.02 | 문자열 분석 | [10820](https://www.acmicpc.net/problem/10820) | implement | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/implementation/boj_10820.py) |  |
+| 2021.08.02 | 알파벳 찾기 | [10809](https://www.acmicpc.net/problem/10809) | implement | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/implementation/boj_10809.py) |  |
+| 2021.08.02 | 알파벳 개수 | [10808](https://www.acmicpc.net/problem/10808) | implement | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/implementation/boj_10808.py) |  |
+| 2021.08.02 | 후위표기식2 | [1935](https://www.acmicpc.net/problem/1935) | stack | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/stack/boj_1935.py) |  |
 | 2021.07.29 | 후위표기식 | [1918](https://www.acmicpc.net/problem/1918) | stack | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/stack/boj_1918.py):heavy_check_mark: |  |
 | 2021.07.29 | 오큰등수 | [17299](https://www.acmicpc.net/problem/17299) | stack | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/stack/boj17299.py):heavy_check_mark: |  |
 | 2021.07.28 | 오큰수 | [17298](https://www.acmicpc.net/problem/17298) | stack | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/stack/boj_17298.py):heavy_check_mark: |  |
