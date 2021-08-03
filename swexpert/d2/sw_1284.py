@@ -9,7 +9,7 @@ for i in range(1, test_cases + 1):
     p, q, r, s, w = tuple(map(int, input().split()))
 
     companyA = p * w
-    companyB = q + (w - r) * s if w > r else q 
+    companyB = q + (w - r) * s if w >= r else q
 
     result = companyA if companyA < companyB else companyB
     print('#{} {}'.format(i, result))
