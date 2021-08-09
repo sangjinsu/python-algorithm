@@ -15,7 +15,8 @@ for t in range(1, test_cases + 1):
 
     cnt = 0
     for i in range(2, n - 2):
-        highest = find_highest(buildings[i - 2], buildings[i - 1], buildings[i + 1], buildings[i + 2])
+        highest = find_highest(buildings[i - 2], buildings[i - 1],
+                               buildings[i + 1], buildings[i + 2])
         if buildings[i] > highest:
             cnt += buildings[i] - highest
 
