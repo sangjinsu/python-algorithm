@@ -6,6 +6,10 @@
 
 | Date       | Name        | Site               |                   Type           | Solved                                                       | visualize |
 | ---------- | ----------- | --------------------|---------------------------- | ------------------------------------------------------------ | ---- |
+| 2021.08.09 | 팩토리얼 0의 개수 | [1676](https://www.acmicpc.net/problem/1676) | math | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/math/boj_1676.py) |  |
+| 2021.08.09 | 조합 0의 개수 | [2004](https://www.acmicpc.net/problem/2004) | math | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/math/boj_2004.py) |  |
+| 2021.08.09 | GCD 합 | [9613](https://www.acmicpc.net/problem/9613) | math | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/math/boj_9613.py) |  |
+| 2021.08.09 | 팩토리얼 | [10872](https://www.acmicpc.net/problem/10872) | math | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/math/boj_10872.py) |  |
 | 2021.08.04 | 골드바흐의 추측 | [6588](https://www.acmicpc.net/problem/6588) | math | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/math/boj_6588.py) |  |
 | 2021.08.03 | 소수 구하기 | [1929](https://www.acmicpc.net/problem/1929) | math | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/math/boj_1929.py):heavy_check_mark: |  |
 | 2021.08.03 | 최소공배수 | [1934](https://www.acmicpc.net/problem/1934) | math | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/math/boj_1934.py) |  |
@@ -52,6 +56,7 @@
 | Date       | Name        | Site                                 | Type     | level      | Solved                                                       |
 | ---------- | ----------- | --------------------------------------|---------- | ----|-------------------------------------------------------- |
 | 2021.07.26 | [S/W 문제해결 기본] 6일차 - 계산기3 | [1224](https://swexpertacademy.com/main/code/problem/problemDetail.do) | stack | d4 | [f​ai​le​d​](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d4/sw_1224.py):heavy_check_mark::heavy_check_mark: |
+| 2021.08.09 | [S/W 문제해결 기본] 1일차 - View | [1206](https://swexpertacademy.com/main/code/problem/problemDetail.do) |  | d3 | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d3/sw_1206.py) |
 | 2021.07.26 | 모음이 보이지 않는 사람 | [4406](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AWNcD_66pUEDFAV8&categoryId=AWNcD_66pUEDFAV8&categoryType=CODE&problemTitle=&orderBy=PASS_RATE&selectCodeLang=PYTHON&select-1=3&pageSize=10&pageIndex=1) |  | d3 | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d3/sw_4406.py) |
 | 2021.07.26 | 준환이의 운동관리 | [3431](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AWE_ZXcqAAMDFAV2&categoryId=AWE_ZXcqAAMDFAV2&categoryType=CODE&problemTitle=&orderBy=PASS_RATE&selectCodeLang=PYTHON&select-1=3&pageSize=10&pageIndex=1) |  | d3 | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d3/sw_3431.py) |
 | 2021.08.05 | 패턴 마디의 길이 | [2007](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5P1kNKAl8DFAUq&categoryId=AV5P1kNKAl8DFAUq&categoryType=CODE&problemTitle=&orderBy=PASS_RATE&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=1) | | d2 | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d2/sw_2007.py) |
