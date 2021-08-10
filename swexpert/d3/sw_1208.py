@@ -15,6 +15,29 @@ def bubble_sort(lst):
     return nums
 
 
+def counting_sort(lst):
+    nums = lst[:]
+
+    max_num = 0
+    for num in nums:
+        if max_num < num:
+            max_num = num
+
+    counts = [0] * (max_num + 1)
+    for num in nums:
+        counts[num] += 1
+
+    for i in range(1, len(counts)):
+        counts[i] = counts[i - 1] + counts[i]
+
+    new_lst = [-1] * len(nums)
+    for num in nums:
+        new_lst[counts[num] - 1] = num
+        counts[num] -= 1
+
+    return new_lst
+
+
 for t in range(1, test_cases + 1):
     n = int(input().strip())
     boxes = list(map(int, input().strip().split()))
