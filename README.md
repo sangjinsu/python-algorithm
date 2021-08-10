@@ -7,7 +7,7 @@
 | Date       | Name        | Site               |                   Type           | Solved                                                       | visualize |
 | ---------- | ----------- | --------------------|---------------------------- | ------------------------------------------------------------ | ---- |
 | 2021.08.09 | 팩토리얼 0의 개수 | [1676](https://www.acmicpc.net/problem/1676) | math | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/math/boj_1676.py) |  |
-| 2021.08.09 | 조합 0의 개수 | [2004](https://www.acmicpc.net/problem/2004) | math | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/math/boj_2004.py) |  |
+| 2021.08.09 | 조합 0의 개수 | [2004](https://www.acmicpc.net/problem/2004) | math | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/math/boj_2004.py) :heavy_check_mark: |  |
 | 2021.08.09 | GCD 합 | [9613](https://www.acmicpc.net/problem/9613) | math | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/math/boj_9613.py) |  |
 | 2021.08.09 | 팩토리얼 | [10872](https://www.acmicpc.net/problem/10872) | math | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/math/boj_10872.py) |  |
 | 2021.08.04 | 골드바흐의 추측 | [6588](https://www.acmicpc.net/problem/6588) | math | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/math/boj_6588.py) |  |
