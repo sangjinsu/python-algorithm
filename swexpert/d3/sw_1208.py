@@ -4,7 +4,7 @@ test_cases = 10
 def bubble_sort(lst):
     nums = lst[:]
     check = True
-    for i in range(len(nums) - 1, 0, -1):
+    for i in range(len(nums) - 1, -1, -1):
         if not check:
             break
         check = False
