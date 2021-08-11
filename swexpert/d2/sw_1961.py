@@ -1,7 +1,7 @@
 test_cases = int(input().strip())
 
 
-def turn_matrix_90(matrix):
+def turn_matrix_90(matrix, n):
     matrix_90 = []
     for i in range(n):
         row = []
@@ -11,17 +11,25 @@ def turn_matrix_90(matrix):
     return matrix_90
 
 
-def turn_matrix_180(matrix):
-    matrix_180 = []
-    for i in range(n - 1, -1, -1):
-        row = []
-        for j in range(n - 1, -1, -1):
-            row.append(matrix[i][j])
-        matrix_180.append(row)
+# def turn_matrix_180(matrix):
+#     matrix_180 = []
+#     for i in range(n - 1, -1, -1):
+#         row = []
+#         for j in range(n - 1, -1, -1):
+#             row.append(matrix[i][j])
+#         matrix_180.append(row)
+#     return matrix_180
+
+
+def turn_matrix_180(matrix, n):
+    matrix_180 = [[0] * n for _ in range(n)]
+    for i in range(n):
+        for j in range(n):
+            matrix_180[n - i - 1][n - j - 1] = matrix[i][j]
     return matrix_180
 
 
-def turn_matrix_270(matrix):
+def turn_matrix_270(matrix, n):
     matrix_270 = []
     for i in range(n - 1, -1, -1):
         row = []
@@ -40,9 +48,9 @@ for t in range(1, test_cases + 1):
         row = input().strip().split()
         matrix.append(row)
 
-    matrix_90 = turn_matrix_90(matrix)
-    matrix_180 = turn_matrix_180(matrix)
-    matrix_270 = turn_matrix_270(matrix)
+    matrix_90 = turn_matrix_90(matrix, n)
+    matrix_180 = turn_matrix_180(matrix, n)
+    matrix_270 = turn_matrix_270(matrix, n)
 
     print(f'#{t}')
     for i in range(n):
