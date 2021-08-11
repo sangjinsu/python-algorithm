@@ -1,14 +1,13 @@
 test_cases = int(input())
 
 
-def find_space(n, axis='row'):
+def find_space(puzzle, n, k, axis='row'):
     cnt = 0
     if axis == 'row':
         for i in range(n):
             space = 0
             for j in range(n):
-                box = puzzle[i][j]
-                if box:
+                if puzzle[i][j]:
                     space += 1
                 else:
                     if space == k:
@@ -21,8 +20,7 @@ def find_space(n, axis='row'):
         for i in range(n):
             space = 0
             for j in range(n):
-                box = puzzle[j][i]
-                if box:
+                if puzzle[j][i]:
                     space += 1
                 else:
                     if space == k:
@@ -36,13 +34,10 @@ def find_space(n, axis='row'):
 
 for t in range(1, test_cases + 1):
     n, k = map(int, input().strip().split())
-    puzzle = []
-    for i in range(n):
-        line = list(map(int, input().strip().split()))
-        puzzle.append(line)
+    puzzle = [list(map(int, input().strip().split())) for _ in range(n)]
 
     cnt = 0
-    cnt += find_space(n, axis='row')
-    cnt += find_space(n, axis='col')
+    cnt += find_space(puzzle, n, k, axis='row')
+    cnt += find_space(puzzle, n, k, axis='col')
 
     print('#{} {}'.format(t, cnt))
