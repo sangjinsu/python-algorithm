@@ -6,6 +6,8 @@
 
 | Date       | Name        | Site               |                   Type           | Solved                                                       | visualize |
 | ---------- | ----------- | --------------------|---------------------------- | ------------------------------------------------------------ | ---- |
+| 2021.08.12 | -2진수 | [2089](https://www.acmicpc.net/problem/17087) | math | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/math/boj_2089.py) |  |
+| 2021.08.12 | 8진수 2진수 | [1212](https://www.acmicpc.net/problem/17087) | math | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/math/boj_1212.py) |  |
 | 2021.08.11 | 숨바꼭질 6 | [17087](https://www.acmicpc.net/problem/17087) | math | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/math/boj_17087.py) |  |
 | 2021.08.11 | 2진수 8진수 | [1373](https://www.acmicpc.net/problem/1373) | math | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/math/boj_1373.py) |  |
 | 2021.08.11 | 부분수열의 합 (subset) | [1182](https://www.acmicpc.net/problem/1182) | bruteforce | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/bruteforce/boj_1182.py):heavy_check_mark::heavy_check_mark::heavy_check_mark: |  |
