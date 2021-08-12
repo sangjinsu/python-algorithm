@@ -16,9 +16,7 @@ for t in range(1, test_cases + 1):
             matrix[ny][nx] = mark
 
         tx, ty = nx + dx[direction], ny + dy[direction]
-        if tx < 0 or tx >= n or ty < 0 or ty >= n:
-            direction = (direction + 1) % 4
-        elif matrix[ty][tx]:
+        if not (0 <= tx < n and 0 <= ty < n) or matrix[ty][tx]:
             direction = (direction + 1) % 4
 
         nx, ny = nx + dx[direction], ny + dy[direction]
