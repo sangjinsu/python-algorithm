@@ -7,11 +7,9 @@ for t in range(1, test_cases + 1):
     n = int(input())
     matrix = [[0] * n for _ in range(n)]
 
-    mark = 0
     nx, ny = 0, 0
     direction = 0
-    for i in range(n * n):
-        mark += 1
+    for mark in range(1, n * n + 1):
         if not matrix[ny][nx]:
             matrix[ny][nx] = mark
 
