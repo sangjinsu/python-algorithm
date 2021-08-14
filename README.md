@@ -2,6 +2,14 @@
 
 파이썬 알고리즘 문제풀이 
 
+## Algorithm
+
+| Date       | type                    | name        |
+| ---------- | ----------------------- | ----------- |
+| 2021.08.13 | string pattern matching | boyer-moore |
+| 2021.08.13 | string pattern matching | kmp         |
+| 2021.08.13 | string pattern matching | rabin-karp  |
+
 ## 백준 알고리즘
 
 | Date       | Name        | Site               |                   Type           | Solved                                                       | visualize |
@@ -62,6 +70,7 @@
 | ---------- | ----------- | --------------------------------------|---------- | ----|-------------------------------------------------------- |
 | 2021.08.12 | [S/W 문제해결 기본] 2일차 - Ladder1 | [1210](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14ABYKADACFAYh) |  | d4 | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d3/sw_1210.py), [better solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d4/sw_1210_1.py) |
 | 2021.07.26 | [S/W 문제해결 기본] 6일차 - 계산기3 | [1224](https://swexpertacademy.com/main/code/problem/problemDetail.do) | stack | d4 | [f​ai​le​d​](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d4/sw_1224.py):heavy_check_mark::heavy_check_mark: |
+| 2021.08.13 | [S/W 문제해결 기본] 5일차 - GNS | [1221](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14jJh6ACYCFAYD) |  | d3 | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d3/sw_1221.py) |
 | 2021.08.12 | 특별한 정렬 | 4843 | sorting | d3 | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d3/sw_4843.py) |
 | 2021.08.12 | 부분집합의 합 | 4837 | bruteforce | d3 | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d3/sw_4837.py) |
 | 2021.08.11 | [S/W 문제해결 기본] 2일차 - Sum | [1209](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV13_BWKACUCFAYh) |  | d3 | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d3/sw_1209.py), [better solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d3/sw_1209_1.py) |
@@ -70,6 +79,7 @@
 | 2021.08.09 | [S/W 문제해결 기본] 1일차 - View | [1206](https://swexpertacademy.com/main/code/problem/problemDetail.do) |  | d3 | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d3/sw_1206.py) |
 | 2021.07.26 | 모음이 보이지 않는 사람 | [4406](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AWNcD_66pUEDFAV8&categoryId=AWNcD_66pUEDFAV8&categoryType=CODE&problemTitle=&orderBy=PASS_RATE&selectCodeLang=PYTHON&select-1=3&pageSize=10&pageIndex=1) |  | d3 | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d3/sw_4406.py) |
 | 2021.07.26 | 준환이의 운동관리 | [3431](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AWE_ZXcqAAMDFAV2&categoryId=AWE_ZXcqAAMDFAV2&categoryType=CODE&problemTitle=&orderBy=PASS_RATE&selectCodeLang=PYTHON&select-1=3&pageSize=10&pageIndex=1) |  | d3 | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d3/sw_3431.py) |
+| 2021.08.13 |  |  | |  |  |
 | 2021.08.12 | 수도쿠 검증 | [1974](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5Psz16AYEDFAUq&categoryId=AV5Psz16AYEDFAUq&categoryType=CODE&problemTitle=&orderBy=PASS_RATE&selectCodeLang=PYTHON&select-1=2&pageSize=10&pageIndex=2) | | d2 | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d2/sw_1974.py) |
 | 2021.08.12 | 이진탐색 | 4839 | | d2 | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d2/sw_4839.py) |
 | 2021.08.11 | 달팽이 숫자 | [1954](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PobmqAPoDFAUq) | | d2 | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d2/sw_1954.py) |
