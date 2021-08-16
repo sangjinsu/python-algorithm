@@ -3,33 +3,30 @@ m = 9
 
 
 def check_square(matrix, i, j):
-    checkboard = []
+    checkerboard = []
     for k in range(i, i + 3):
         for l in range(j, j + 3):
-            if matrix[k][l] in checkboard:
+            if matrix[k][l] in checkerboard:
                 return False
             else:
-                checkboard.append(matrix[k][l])
+                checkerboard.append(matrix[k][l])
     return True
 
 
-def check_column(matrix, i):
-    checkboard = []
+def check_row_column(matrix, i):
+    row_checkerboard = []
+    col_checkerboard = []
     for j in range(m):
-        if matrix[j][i] in checkboard:
+        if matrix[i][j] in row_checkerboard:
             return False
         else:
-            checkboard.append(matrix[j][i])
-    return True
+            row_checkerboard.append(matrix[i][j])
 
-
-def check_row(matrix, i):
-    checkboard = []
-    for j in range(m):
-        if matrix[i][j] in checkboard:
+        if matrix[j][i] in col_checkerboard:
             return False
         else:
-            checkboard.append(matrix[i][j])
+            col_checkerboard.append(matrix[j][i])
+
     return True
 
 
@@ -44,13 +41,7 @@ def solution(tc):
                 return
 
     for i in range(m):
-        result = check_column(matrix, i)
-        if not result:
-            print('#{} {}'.format(tc, 0))
-            return
-
-    for i in range(m):
-        result = check_row(matrix, i)
+        result = check_row_column(matrix, i)
         if not result:
             print('#{} {}'.format(tc, 0))
             return
