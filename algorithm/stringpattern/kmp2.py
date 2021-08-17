@@ -20,7 +20,6 @@ def kmp(p: str, s: str):
     table = make_table(p)
     j = 0
     i = 0
-    lenS = len(s)
     lenP = len(p)
     while i < len(s):
         if s[i] == p[j]:
