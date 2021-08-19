@@ -14,6 +14,11 @@
 
 | Date       | Name        | Site               |                   Type           | Solved                                                       | visualize |
 | ---------- | ----------- | --------------------|---------------------------- | ------------------------------------------------------------ | ---- |
+| 2021.08.18 | 2×n 타일링2 | [11727](https://www.acmicpc.net/problem/11726) | dynamic | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/dynamic/boj_11727.py) |  |
+| 2021.08.18 | 2×n 타일링 | [11726](https://www.acmicpc.net/problem/11726) | dynamic | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/dynamic/boj_11726.py) |  |
+| 2021.08.18 | 카드 구매하기 | [11052](https://www.acmicpc.net/problem/11052) | dynamic | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/dynamic/boj_11052.py) :heavy_check_mark: |  |
+| 2021.08.18 | 1, 2, 3 더하기 | [9095](https://www.acmicpc.net/problem/9095) | dynamic | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/dynamic/boj_9095.py) |  |
+| 2021.08.18 | 1로 만들기 | [1463](https://www.acmicpc.net/problem/1463) | dynamic | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/dynamic/boj_1463.py) |  |
 | 2021.08.12 | -2진수 | [2089](https://www.acmicpc.net/problem/17087) | math | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/math/boj_2089.py) |  |
 | 2021.08.12 | 8진수 2진수 | [1212](https://www.acmicpc.net/problem/17087) | math | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/math/boj_1212.py) |  |
 | 2021.08.11 | 숨바꼭질 6 | [17087](https://www.acmicpc.net/problem/17087) | math | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/math/boj_17087.py) |  |
