@@ -10,4 +10,4 @@ for t in range(1, test_cases + 1):
         money = money % m[i]
 
     print(f'#{t}')
-    print(*answer)
+    print(' '.join(map(str, answer)))

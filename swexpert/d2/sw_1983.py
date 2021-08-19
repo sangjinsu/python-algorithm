@@ -9,3 +9,4 @@ for t in range(1, test_cases + 1):
     for i in range(len(scores)):
         if scores[i][0] == k:
             print(f'#{t} {grade[i // (n // 10)]}')
+            break

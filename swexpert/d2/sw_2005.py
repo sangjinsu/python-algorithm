@@ -12,4 +12,3 @@ for t in range(1, test_cases + 1):
     print(f'#{t}')
     for row in mat:
         print(' '.join(map(str, row)))
-    print('ABCDE'[4:3])
