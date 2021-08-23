@@ -14,6 +14,9 @@
 
 | Date       | Name        | Site               |                   Type           | Solved                                                       | visualize |
 | ---------- | ----------- | --------------------|---------------------------- | ------------------------------------------------------------ | ---- |
+| 2021.08.23 | 카드 구매하기 2 | [16194](https://www.acmicpc.net/problem/16194) | dynamic | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/dynamic/boj_16194.py) |  |
+| 2021.08.23 | 1, 2, 3 더하기 3 | [15988](https://www.acmicpc.net/problem/15988) | dynamic | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/dynamic/boj_15988.py) |  |
+| 2021.08.23 | 후위표기식 | [1918](https://www.acmicpc.net/problem/1918) | stack | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/stack/boj_1918.py), [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/stack/boj_1918_1.py):heavy_check_mark: |  |
 | 2021.08.18 | 2×n 타일링2 | [11727](https://www.acmicpc.net/problem/11726) | dynamic | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/dynamic/boj_11727.py) |  |
 | 2021.08.18 | 2×n 타일링 | [11726](https://www.acmicpc.net/problem/11726) | dynamic | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/dynamic/boj_11726.py) |  |
 | 2021.08.18 | 카드 구매하기 | [11052](https://www.acmicpc.net/problem/11052) | dynamic | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/dynamic/boj_11052.py) :heavy_check_mark: |  |
@@ -42,7 +45,6 @@
 | 2021.08.02 | 알파벳 찾기 | [10809](https://www.acmicpc.net/problem/10809) | implement | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/implementation/boj_10809.py) |  |
 | 2021.08.02 | 알파벳 개수 | [10808](https://www.acmicpc.net/problem/10808) | implement | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/implementation/boj_10808.py) |  |
 | 2021.08.02 | 후위표기식2 | [1935](https://www.acmicpc.net/problem/1935) | stack | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/stack/boj_1935.py) |  |
-| 2021.07.29 | 후위표기식 | [1918](https://www.acmicpc.net/problem/1918) | stack | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/stack/boj_1918.py):heavy_check_mark: |  |
 | 2021.07.29 | 오큰등수 | [17299](https://www.acmicpc.net/problem/17299) | stack | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/stack/boj17299.py):heavy_check_mark: |  |
 | 2021.07.28 | 오큰수 | [17298](https://www.acmicpc.net/problem/17298) | stack | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/stack/boj_17298.py):heavy_check_mark: |  |
 | 2021.07.27 | 쇠막대기 | [10799](https://www.acmicpc.net/problem/10799) | stack | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/stack/boj_10799.py) |  |
@@ -73,12 +75,15 @@
 
 | Date       | Name                                | Site                                                         | Type           | level | Solved                                                       |
 | ---------- | ----------------------------------- | ------------------------------------------------------------ | -------------- | ----- | ------------------------------------------------------------ |
+| 2021.08.23 | 계산기2                             | [1223](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14nnAaAFACFAYD) | stack          | d4    | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d4/sw_1223.py) |
+| 2021.08.23 | 자기 방으로 돌아가기                | [4408](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWNcJ2sapZMDFAV8) |                | d4    | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d4/sw_4408.py) |
 | 2021.08.19 | 길찾기                              | 1219                                                         |                | d4    | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d4/sw_1219.py) |
 | 2021.08.17 | 가장 빠른 문자열 타이핑             | [3143](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV_65wkqsb4DFAWS) | string pattern | d4    | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d4/sw_3143.py) |
 | 2021.08.16 | 자기 방으로 돌아가기                | [4408](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWNcJ2sapZMDFAV8) |                | d4    | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d4/sw_4408.py) |
 | 2021.08.16 | 쇠막대기 자르기                     | [5432](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWVl47b6DGMDFAXm) | stack          | d4    | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d4/sw_5432.py) |
 | 2021.08.12 | [S/W 문제해결 기본] 2일차 - Ladder1 | [1210](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14ABYKADACFAYh) |                | d4    | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d4/sw_1210.py), [better solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d4/sw_1210_1.py) |
 | 2021.07.26 | [S/W 문제해결 기본] 6일차 - 계산기3 | [1224](https://swexpertacademy.com/main/code/problem/problemDetail.do) | stack          | d4    | [f​ai​le​d​](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d4/sw_1224.py):heavy_check_mark::heavy_check_mark: |
+| 2021.08.23 | 삼성시의 버스 노선                  | [6485](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWczm7QaACgDFAWn) |                | d3    | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d3/sw_6485.py) |
 | 2021.08.19 | 비밀번호                            | 1234                                                         |                | d3    | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d3/sw_1234.py) |
 | 2021.08.17 | 회문2                               | [1216](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14Rq5aABUCFAYi) |                | d3    | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d3/sw_1216.py) |
 | 2021.08.16 | 삼성시의 버스 노선                  | [6485](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWczm7QaACgDFAWn) |                | d3    | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d3/sw_6485.py) |
