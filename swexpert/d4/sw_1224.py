@@ -1,40 +1,54 @@
-for t in range(1, 3):
-    test_length = int(input().strip())
-    case = input()
-    stack = list()
-    postfix = ''
+test_cases = 10
 
-    prec = {
-        '*': 3,
-        '+': 2,
-        '(': 1
+
+def make_postfix(expr: str):
+    op = {
+        '(': 0,
+        '+': 1,
+        '*': 2,
     }
 
-    for i in range(test_length):
-        if case[i] in '+*)(':
-            if case[i] == '(':
-                stack.append('(')
-            elif case[i] == ')':
-                while stack[-1] != '(':
+    stack = []
+    postfix = ''
+    for e in expr:
+        if e.isdecimal():
+            postfix += e
+        else:
+            if e == '(':
+                stack.append(e)
+            elif e == ')':
+                while stack and stack[-1] != '(':
                     postfix += stack.pop()
                 stack.pop()
             else:
-                while stack and prec[case[i]] <= prec[stack[-1]]:
+                while stack and op[e] <= op[stack[-1]]:
                     postfix += stack.pop()
-                stack.append(case[i])
-        else:
-            postfix += case[i]
-
-    while len(stack) > 0:
+                stack.append(e)
+    while stack:
         postfix += stack.pop()
 
-    for i in range(len(postfix)):
-        if postfix[i] not in '+*':
-            stack.append(int(postfix[i]))
-        else:
-            if postfix[i] == '*':
-                stack.append(stack.pop() * stack.pop())
-            elif postfix[i] == '+':
-                stack.append(stack.pop() + stack.pop())
+    return postfix
 
-    print('#{} {}'.format(t, stack[0]))
+
+def solve_postfix(pf: str):
+    stack = []
+    for e in pf:
+        if e.isdecimal():
+            stack.append(int(e))
+        else:
+            num2 = stack.pop()
+            num1 = stack.pop()
+            if e == '+':
+                stack.append(num1 + num2)
+            elif e == '*':
+                stack.append(num1 * num2)
+
+    return stack[0]
+
+
+for t in range(1, test_cases + 1):
+    length = int(input().strip())
+    expression = input().strip()
+    postfix = make_postfix(expression)
+    result = solve_postfix(postfix)
+    print('#{} {}'.format(t, result))
