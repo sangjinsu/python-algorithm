@@ -17,6 +17,9 @@
 
 | Date       | Name        | Site               |                   Type           | Solved                                                       | visualize |
 | ---------- | ----------- | --------------------|---------------------------- | ------------------------------------------------------------ | ---- |
+| 2021.08.25 | 종이 자르기 | [2628](https://www.acmicpc.net/problem/2628) | sorting | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/sorting/boj_2628.py) |  |
+| 2021.08.25 | 수 이어가기 | [2635](https://www.acmicpc.net/problem/2635) | math | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/math/boj_2635.py) |  |
+| 2021.08.25 | 직사각형 네 개의 합집합의 면적 구하기 | [2669](https://www.acmicpc.net/problem/2669) | implement | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/implementation/boj_2669.py) |  |
 | 2021.08.25 | 이친수 | [2193](https://www.acmicpc.net/problem/2193) | dynamic | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/dynamic/boj_2193.py) |  |
 | 2021.08.25 | 쉬운 계단 수 | [10844](https://www.acmicpc.net/problem/10844) | dynamic | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/dynamic/boj_10844.py) |  |
 | 2021.08.24 | N-Qeen | [9663](https://www.acmicpc.net/problem/9663) | backtracking | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/backtracking/boj_9663.py) |  |
