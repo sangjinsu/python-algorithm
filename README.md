@@ -6,6 +6,7 @@
 
 | Date       | type                    | name           |
 | ---------- | ----------------------- | -------------- |
+| 2021.08.25 | 넖이 우선 탐색          | bfs            |
 | 2021.08.24 | backtracking            | 부분집합, 순열 |
 | 2021.08.23 | 깊이 우선 탐색          | dfs            |
 | 2021.08.13 | string pattern matching | boyer-moore    |
@@ -16,6 +17,8 @@
 
 | Date       | Name        | Site               |                   Type           | Solved                                                       | visualize |
 | ---------- | ----------- | --------------------|---------------------------- | ------------------------------------------------------------ | ---- |
+| 2021.08.25 | 이친수 | [2193](https://www.acmicpc.net/problem/2193) | dynamic | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/dynamic/boj_2193.py) |  |
+| 2021.08.25 | 쉬운 계단 수 | [10844](https://www.acmicpc.net/problem/10844) | dynamic | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/dynamic/boj_10844.py) |  |
 | 2021.08.24 | N-Qeen | [9663](https://www.acmicpc.net/problem/9663) | backtracking | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/backtracking/boj_9663.py) |  |
 | 2021.08.23 | 카드 구매하기 2 | [16194](https://www.acmicpc.net/problem/16194) | dynamic | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/dynamic/boj_16194.py) |  |
 | 2021.08.23 | 1, 2, 3 더하기 3 | [15988](https://www.acmicpc.net/problem/15988) | dynamic | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/dynamic/boj_15988.py) |  |
@@ -86,6 +89,7 @@
 | 2021.08.16 | 자기 방으로 돌아가기                | [4408](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWNcJ2sapZMDFAV8) |                | d4    | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d4/sw_4408.py) |
 | 2021.08.16 | 쇠막대기 자르기                     | [5432](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWVl47b6DGMDFAXm) | stack          | d4    | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d4/sw_5432.py) |
 | 2021.08.12 | [S/W 문제해결 기본] 2일차 - Ladder1 | [1210](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14ABYKADACFAYh) |                | d4    | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d4/sw_1210.py), [better solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d4/sw_1210_1.py) |
+| 2021.08.25 | 암호생성기                          | [1225](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14uWl6AF0CFAYD) |                | d3    | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d3/sw_1225.py) |
 | 2021.08.24 | N-QEENS                             | [2806](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV7GKs06AU0DFAXB&categoryId=AV7GKs06AU0DFAXB&categoryType=CODE&&&) |                | d3    | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d3/sw_2806.py) |
 | 2021.08.23 | 삼성시의 버스 노선                  | [6485](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWczm7QaACgDFAWn) |                | d3    | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d3/sw_6485.py) |
 | 2021.08.19 | 비밀번호                            | 1234                                                         |                | d3    | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d3/sw_1234.py) |
