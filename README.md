@@ -6,6 +6,7 @@
 
 | Date       | type                    | name           |
 | ---------- | ----------------------- | -------------- |
+| 2021.08.27 | sort                    | heap sort      |
 | 2021.08.25 | 넖이 우선 탐색          | bfs            |
 | 2021.08.24 | backtracking            | 부분집합, 순열 |
 | 2021.08.23 | 깊이 우선 탐색          | dfs            |
@@ -17,6 +18,8 @@
 
 | Date       | Name        | Site               |                   Type           | Solved                                                       | visualize |
 | ---------- | ----------- | --------------------|---------------------------- | ------------------------------------------------------------ | ---- |
+| 2021.08.26 | 주사위 쌓기 | [2116](https://www.acmicpc.net/problem/2116) | implement | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/sorting/boj_2116.py) |  |
+| 2021.08.26 | 스위치 켜고 끄기 | [1244](https://www.acmicpc.net/problem/1244) | implement | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/sorting/boj_1244.py) |  |
 | 2021.08.25 | 종이 자르기 | [2628](https://www.acmicpc.net/problem/2628) | sorting | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/sorting/boj_2628.py) |  |
 | 2021.08.25 | 수 이어가기 | [2635](https://www.acmicpc.net/problem/2635) | math | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/math/boj_2635.py) |  |
 | 2021.08.25 | 직사각형 네 개의 합집합의 면적 구하기 | [2669](https://www.acmicpc.net/problem/2669) | implement | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/implementation/boj_2669.py) |  |
@@ -84,6 +87,8 @@
 
 | Date       | Name                                | Site                                                         | Type           | level | Solved                                                       |
 | ---------- | ----------------------------------- | ------------------------------------------------------------ | -------------- | ----- | ------------------------------------------------------------ |
+| 2021.08.26 | 중위순회                            | [1231](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV140YnqAIECFAYD) | tree           | d4    | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d4/sw_1231.py) |
+| 2021.08.26 | 미로1                               | [1226](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14vXUqAGMCFAYD) | dfs, bfs       | d4    | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d4/sw_1226.py), [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d4/sw_1226_1.py) |
 | 2021.08.24 | [S/W 문제해결 기본] 6일차 - 계산기3 | [1224](https://swexpertacademy.com/main/code/problem/problemDetail.do) | stack          | d4    | [solved​](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d4/sw_1224.py):heavy_check_mark::heavy_check_mark: |
 | 2021.08.23 | 계산기2                             | [1223](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14nnAaAFACFAYD) | stack          | d4    | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d4/sw_1223.py) |
 | 2021.08.23 | 자기 방으로 돌아가기                | [4408](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWNcJ2sapZMDFAV8) |                | d4    | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d4/sw_4408.py) |
@@ -92,6 +97,8 @@
 | 2021.08.16 | 자기 방으로 돌아가기                | [4408](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWNcJ2sapZMDFAV8) |                | d4    | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d4/sw_4408.py) |
 | 2021.08.16 | 쇠막대기 자르기                     | [5432](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWVl47b6DGMDFAXm) | stack          | d4    | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d4/sw_5432.py) |
 | 2021.08.12 | [S/W 문제해결 기본] 2일차 - Ladder1 | [1210](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14ABYKADACFAYh) |                | d4    | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d4/sw_1210.py), [better solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d4/sw_1210_1.py) |
+| 2021.08.26 | 피자 굽기                           | 5099                                                         | queue          | d3    | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d3/sw_5099.py) |
+| 2021.08.26 | 미로의 거리                         | 5105                                                         | bfs            | d3    | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d3/sw_5105.py) |
 | 2021.08.25 | 암호생성기                          | [1225](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14uWl6AF0CFAYD) |                | d3    | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d3/sw_1225.py) |
 | 2021.08.24 | N-QEENS                             | [2806](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV7GKs06AU0DFAXB&categoryId=AV7GKs06AU0DFAXB&categoryType=CODE&&&) |                | d3    | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d3/sw_2806.py) |
 | 2021.08.23 | 삼성시의 버스 노선                  | [6485](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWczm7QaACgDFAWn) |                | d3    | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d3/sw_6485.py) |
@@ -113,6 +120,8 @@
 
 | Date       | Name                            | Site                                                         | Type           | level | Solved                                                       |
 | ---------- | ------------------------------- | ------------------------------------------------------------ | -------------- | ----- | ------------------------------------------------------------ |
+| 2021.08.26 | 노드의 거리                     | 5102                                                         | bfs            | d2    | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d2/sw_5102.py) |
+| 2021.08.26 | 회전                            | 5094                                                         | queue          | d2    | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d2/sw_5094.py) |
 | 2021.08.24 | 배열 최소 합                    | 4881                                                         | backtracking   | d2    | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d2/sw_4881.py) |
 | 2021.08.24 | 토너먼트 카드 게임              | 4880                                                         | divide-conquer | d2    | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d2/sw_4880.py) |
 | 2021.08.24 | 미로                            | 4875                                                         | dfs            | d2    | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d2/sw_4875.py) |
