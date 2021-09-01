@@ -1,7 +1,6 @@
-
 testCase = int(input().strip())
 
-for i in range(1, testCase + 1):
+for t in range(1, testCase + 1):
     minimum, maximum, minutes = tuple(map(int, input().strip().split()))
     result = 0
     if minimum <= minutes <= maximum:
@@ -11,4 +10,4 @@ for i in range(1, testCase + 1):
     else:
         result = -1
 
-    print('#{} {}'.format(i, result))
+    print('#{} {}'.format(t, result))
