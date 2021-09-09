@@ -18,6 +18,9 @@
 
 | Date       | Name        | Site               |                   Type           | Solved                                                       | visualize |
 | ---------- | ----------- | --------------------|---------------------------- | ------------------------------------------------------------ | ---- |
+| 2021.09.09 | 일곱 난쟁이 | [2309](https://www.acmicpc.net/problem/2309) | bruteforce | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/bruteforce/boj_2309.py) |  |
+| 2021.09.09 | 연속합 | [1912](https://www.acmicpc.net/problem/1912) | dynamic | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/dynamic/boj_1912.py) |  |
+| 2021.09.09 | 제곱수의 합 | [1699](https://www.acmicpc.net/problem/1699) | dynamic | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/dynamic/boj_1699.py) |  |
 | 2021.09.01 | 가장 긴 증가하는 부분 수열 | [11053](https://www.acmicpc.net/problem/11053) | dynamic | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/dynamic/boj_11053.py) |  |
 | 2021.08.26 | 주사위 쌓기 | [2116](https://www.acmicpc.net/problem/2116) | implement | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/sorting/boj_2116.py) |  |
 | 2021.08.26 | 스위치 켜고 끄기 | [1244](https://www.acmicpc.net/problem/1244) | implement | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/sorting/boj_1244.py) |  |
