@@ -9,3 +9,5 @@ result = cant_hear.intersection(cant_see)
 sys.stdout.write(str(len(result)) + '\n')
 for name in sorted(list(result)):
     sys.stdout.write(name + '\n')
+
+
