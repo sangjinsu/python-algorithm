@@ -18,6 +18,8 @@
 
 | Date       | Name        | Site               |                   Type           | Solved                                                       | visualize |
 | ---------- | ----------- | --------------------|---------------------------- | ------------------------------------------------------------ | ---- |
+| 2021.09.15 | 사탕게임 | [3085](https://www.acmicpc.net/problem/3085) | bruteforce | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/bruteforce/boj_3085.py) |  |
+| 2021.09.15 | 듣보잡 | [1764](https://www.acmicpc.net/problem/1764) | sorting | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/sorting/boj_1764.py) |  |
 | 2021.09.09 | 일곱 난쟁이 | [2309](https://www.acmicpc.net/problem/2309) | bruteforce | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/bruteforce/boj_2309.py) |  |
 | 2021.09.09 | 연속합 | [1912](https://www.acmicpc.net/problem/1912) | dynamic | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/dynamic/boj_1912.py) |  |
 | 2021.09.09 | 제곱수의 합 | [1699](https://www.acmicpc.net/problem/1699) | dynamic | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/dynamic/boj_1699.py) |  |
