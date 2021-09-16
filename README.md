@@ -18,6 +18,8 @@
 
 | Date       | Name        | Site               |                   Type           | Solved                                                       | visualize |
 | ---------- | ----------- | --------------------|---------------------------- | ------------------------------------------------------------ | ---- |
+| 2021.09.16 | 리모컨 | [1107](https://www.acmicpc.net/problem/1107) | bruteforce | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/bruteforce/boj_1107.py) |  |
+| 2021.09.16 | 날짜계산 | [1476](https://www.acmicpc.net/problem/1476) | bruteforce | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/bruteforce/boj_1476.py) |  |
 | 2021.09.15 | 사탕게임 | [3085](https://www.acmicpc.net/problem/3085) | bruteforce | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/bruteforce/boj_3085.py) |  |
 | 2021.09.15 | 듣보잡 | [1764](https://www.acmicpc.net/problem/1764) | sorting | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/sorting/boj_1764.py) |  |
 | 2021.09.09 | 일곱 난쟁이 | [2309](https://www.acmicpc.net/problem/2309) | bruteforce | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/bruteforce/boj_2309.py) |  |
@@ -103,6 +105,11 @@
 | 2021.08.16 | 자기 방으로 돌아가기                | [4408](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWNcJ2sapZMDFAV8) |                | d4    | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d4/sw_4408.py) |
 | 2021.08.16 | 쇠막대기 자르기                     | [5432](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWVl47b6DGMDFAXm) | stack          | d4    | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d4/sw_5432.py) |
 | 2021.08.12 | [S/W 문제해결 기본] 2일차 - Ladder1 | [1210](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14ABYKADACFAYh) |                | d4    | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d4/sw_1210.py), [better solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d4/sw_1210_1.py) |
+| 2021.09.16 | 100만 이하의 모든 소수              | 3131                                                         |                | d3    | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d3/sw_3131.py) |
+| 2021.09.16 | 새심이의 7-3-5 게임                 | 5948                                                         |                | d3    | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d3/sw_5948.py) |
+| 2021.09.16 | 반반                                | 11856                                                        |                | d3    | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d3/sw_11856.py) |
+| 2021.09.16 | 건초더미                            | 5603                                                         |                | d3    | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d3/sw_5603.py) |
+| 2021.09.16 | 태혁이의 사랑은 타이밍              | 4299                                                         |                | d3    | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d3/sw_4299.py) |
 | 2021.09.14 | 수의 새로운 연산                    | [1493](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AV2b-QGqADMBBASw&categoryId=AV2b-QGqADMBBASw&categoryType=CODE&problemTitle=&orderBy=PASS_RATE&selectCodeLang=PYTHON&select-1=3&pageSize=10&pageIndex=5) |                | d3    | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d3/sw_1493.py) |
 | 2021.08.26 | 피자 굽기                           | 5099                                                         | queue          | d3    | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d3/sw_5099.py) |
 | 2021.08.26 | 미로의 거리                         | 5105                                                         | bfs            | d3    | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d3/sw_5105.py) |
