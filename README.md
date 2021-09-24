@@ -18,6 +18,7 @@
 
 | Date       | Name        | Site               |                   Type           | Solved                                                       |
 | ---------- | ----------- | --------------------|---------------------------- | ------------------------------------------------------------ |
+| 2021.09.24 | 단지번호붙이기 | [2667](https://www.acmicpc.net/problem/2667) | dfs | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/graph/boj_2667.py) |
 | 2021.09.23 | 연결 요소의 개수 | [11724](https://www.acmicpc.net/problem/11724) | dfs | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/graph/boj_11724.py) |
 | 2021.09.23 | DFS와 BFS | [1260](https://www.acmicpc.net/problem/1260) | dfs/bfs | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/graph/boj_1260.py) |
 | 2021.09.22 | ABCDE | [13023](https://www.acmicpc.net/problem/13023) | dfs | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/graph/boj_13023.py) |
