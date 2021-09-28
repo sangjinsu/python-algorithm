@@ -126,6 +126,7 @@
 ## D3
 | Date       | Name                                | Site                                                         | Type       | level | Solved                                                       |
 | ---------- | ----------------------------------- | ------------------------------------------------------------ | ---------- | ----- | ------------------------------------------------------------ |
+| 2021.09.28 | 신뢰                                | 10761                                                        |            | d3    | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d3/sw_10761.py) |
 | 2021.09.23 | 노드의 합                           | 5178                                                         | tree       | d3    | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d3/sw_5178.py) |
 | 2021.09.16 | 100만 이하의 모든 소수              | 3131                                                         |            | d3    | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d3/sw_3131.py) |
 | 2021.09.16 | 새심이의 7-3-5 게임                 | 5948                                                         |            | d3    | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d3/sw_5948.py) |
