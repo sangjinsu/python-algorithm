@@ -18,6 +18,7 @@
 
 | Date       | Name        | Site               |                   Type           | Solved                                                       |
 | ---------- | ----------- | --------------------|---------------------------- | ------------------------------------------------------------ |
+| 2021.09.30 | 나이트의 이동 | [7562](https://www.acmicpc.net/problem/7562) | bfs | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/graph/boj_7562.py) |
 | 202109.29 | 토마토 | [7576](https://www.acmicpc.net/problem/7576) | bfs | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/graph/boj_7576.py) |
 | 202109.29 | 미로 탐색 | [2178](https://www.acmicpc.net/problem/2178) | bfs | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/graph/boj_2178.py) |
 | 202109.29 | 섬의 개수 | [4963](https://www.acmicpc.net/problem/4963) | dfs | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/graph/boj_4963.py) |
