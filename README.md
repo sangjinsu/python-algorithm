@@ -131,10 +131,17 @@
 ## D3
 | Date       | Name                                | Site                                                         | Type       | Solved                                                       |
 | ---------- | ----------------------------------- | ------------------------------------------------------------ | ---------- | ------------------------------------------------------------ |
+| 2021.09.30 | 부분 수열의 합                      | 2817                                                         | 백트래킹   | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d3/sw_2817.py) |
+| 2021.09.30 | 화섭이의 정수 나열                  | 3809                                                         |            | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d3/sw_3809.py) |
+| 2021.09.30 | 파도반 수열                         | 3376                                                         | DP         | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d3/sw_3376.py) |
+| 2021.09.30 | 기차 사이의 파리                    | 6019                                                         |            | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d3/sw_6019.py) |
+| 2021.09.30 | 이진수 표현                         | 10726                                                        |            | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d3/sw_10726.py) |
+| 2021.09.30 | 정삼각형 분할 놀이                  | 3233                                                         |            | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d3/sw_3233.py) |
+| 2021.09.30 | 몬스터 사냥                         | 11387                                                        |            | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d3/sw_11387.py) |
 | 2021.09.29 | 영준이의 카드 카운팅                | 4047                                                         |            | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d3/sw_4047.py) |
 | 2021.09.29 | 전봇대                              | 10580                                                        |            | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d3/sw_10580.py) |
 | 2021.09.29 | 구구단1                             | 12004                                                        |            | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d3/sw_12004.py) |
-| 2021.09.29 | 상호의 배틀필드                     | 1837                                                         |            | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d3/sw_1837.py) |
+| 2021.09.29 | 상호의 배틀필드                     | 1873                                                         |            | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d3/sw_1873.py) |
 | 2021.09.29 | 단순 2진 암호코드                   | 1240                                                         |            | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d3/sw_1240.py) |
 | 2021.09.28 | 신뢰                                | 10761                                                        |            | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d3/sw_10761.py) |
 | 2021.09.23 | 노드의 합                           | 5178                                                         | tree       | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d3/sw_5178.py) |
