@@ -18,6 +18,8 @@
 
 | Date       | Name        | Site               |                   Type           | Solved                                                       |
 | ---------- | ----------- | --------------------|---------------------------- | ------------------------------------------------------------ |
+| 2021.10.01 | 퇴사 | [14501](https://www.acmicpc.net/problem/14501) | recursion | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/recursion/boj_14501.py) |
+| 2021.10.01 | 암호 만들기 | [1759](https://www.acmicpc.net/problem/1759) | recursion | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/recursion/boj_1759.py) |
 | 2021.09.30 | 나이트의 이동 | [7562](https://www.acmicpc.net/problem/7562) | bfs | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/graph/boj_7562.py) |
 | 202109.29 | 토마토 | [7576](https://www.acmicpc.net/problem/7576) | bfs | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/graph/boj_7576.py) |
 | 202109.29 | 미로 탐색 | [2178](https://www.acmicpc.net/problem/2178) | bfs | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/graph/boj_2178.py) |
@@ -95,6 +97,9 @@
 
 | Date       | Name        | Type                                             | Solved                                                       |
 | ---------- | ----------- | ------------------------------------------------ | ------------------------------------------------------------ |
+| 2021.10.03 | 숫자 문자열과 영단어         | [level1](https://programmers.co.kr/learn/courses/30/lessons/81301) | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/programmers/level1/%EC%88%AB%EC%9E%90%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%EC%98%81%EB%8B%A8%EC%96%B4.py) |
+| 2021.10.03 | 로또의 최고 순위와 최저 순위 | [level1](https://programmers.co.kr/learn/courses/30/lessons/77484) | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/programmers/level1/%EB%A1%9C%EB%98%90%EC%9D%98%EC%B5%9C%EA%B3%A0%EC%88%9C%EC%9C%84%EC%99%80%EC%B5%9C%EC%A0%80%EC%88%9C%EC%9C%84.py) |
+| 2021.10.03 | 내적                         | [level1](https://programmers.co.kr/learn/courses/30/lessons/70128) | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/programmers/level1/%EB%82%B4%EC%A0%81.py) |
 | 2021.07.19 | 포켓몬 | [찾아라 프로그래밍 마스터](https://programmers.co.kr/learn/courses/30/lessons/1845) | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/programmers/level1/%ED%8F%AC%EC%BC%93%EB%AA%AC.py) |
 | 2021.07.19 | 완주하지 못한 선수 | [해시](https://programmers.co.kr/learn/courses/30/lessons/42576) | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/programmers/level1/%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%EB%AA%BB%ED%95%9C%EC%84%A0%EC%88%98.py) |
 | 2021.07.19 | 모의고사 | [완전탐색](https://programmers.co.kr/learn/courses/30/lessons/42840?language=python3) | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/programmers/level1/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.py) |
@@ -131,6 +136,7 @@
 ## D3
 | Date       | Name                                | Site                                                         | Type       | Solved                                                       |
 | ---------- | ----------------------------------- | ------------------------------------------------------------ | ---------- | ------------------------------------------------------------ |
+| 2021.10.01 | 최대 상금                           | 1244                                                         | 백트래킹   | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d3/sw_1244.py) |
 | 2021.09.30 | 부분 수열의 합                      | 2817                                                         | 백트래킹   | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d3/sw_2817.py) |
 | 2021.09.30 | 화섭이의 정수 나열                  | 3809                                                         |            | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d3/sw_3809.py) |
 | 2021.09.30 | 파도반 수열                         | 3376                                                         | DP         | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d3/sw_3376.py) |
