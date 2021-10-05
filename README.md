@@ -97,8 +97,15 @@
 
 ## 프로그래머스
 
+### LEVEL 1
+
 | Date       | Name        | Type                                             | Solved                                                       |
 | ---------- | ----------- | ------------------------------------------------ | ------------------------------------------------------------ |
+| 2021.10.05 | 체육복 | level1                                                       | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/programmers/level1/%EC%B2%B4%EC%9C%A1%EB%B3%B5.py) |
+| 2021.10.05 | 음양 더하기 | level1 | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/programmers/level1/%EC%9D%8C%EC%96%91%EB%8D%94%ED%95%98%EA%B8%B0.py) |
+| 2021.10.05 | 없는 숫자 더하기 | level1 | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/programmers/level1/%EC%97%86%EB%8A%94%EC%88%AB%EC%9E%90%EB%8D%94%ED%95%98%EA%B8%B0.py) |
+| 2021.10.05 | 소수 만들기 | level1 | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/programmers/level1/%EC%86%8C%EC%88%98%EB%A7%8C%EB%93%A4%EA%B8%B0.py) |
+| 2021.10.05 | K번째 수 | level1 | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/programmers/level1/K%EB%B2%88%EC%A7%B8%EC%88%98.py) |
 | 2021.10.03 | 숫자 문자열과 영단어         | [level1](https://programmers.co.kr/learn/courses/30/lessons/81301) | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/programmers/level1/%EC%88%AB%EC%9E%90%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%EC%98%81%EB%8B%A8%EC%96%B4.py) |
 | 2021.10.03 | 로또의 최고 순위와 최저 순위 | [level1](https://programmers.co.kr/learn/courses/30/lessons/77484) | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/programmers/level1/%EB%A1%9C%EB%98%90%EC%9D%98%EC%B5%9C%EA%B3%A0%EC%88%9C%EC%9C%84%EC%99%80%EC%B5%9C%EC%A0%80%EC%88%9C%EC%9C%84.py) |
 | 2021.10.03 | 내적                         | [level1](https://programmers.co.kr/learn/courses/30/lessons/70128) | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/programmers/level1/%EB%82%B4%EC%A0%81.py) |
