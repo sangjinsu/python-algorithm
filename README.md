@@ -138,11 +138,11 @@
 ## D3
 | Date       | Name                                | Site                                                         | Type       | Solved                                                       |
 | ---------- | ----------------------------------- | ------------------------------------------------------------ | ---------- | ------------------------------------------------------------ |
-| 2021.10.05 | 베이비진                            | 5203                                                         | greedy     |                                                              |
-| 2021.10.05 | 화물 도크                           | 5202                                                         | greedy     |                                                              |
-| 2021.10.05 | 컨테이너 운반                       | 5201                                                         | greedy     |                                                              |
-| 2021.10.05 | 전자카트                            | 5189                                                         | 백트래킹   |                                                              |
-| 2021.10.05 | 최소합                              | 5188                                                         | 백트래킹   |                                                              |
+| 2021.10.05 | 베이비진                            | 5203                                                         | greedy     | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/swexpert/d3/sw_5203.py) |
+| 2021.10.05 | 화물 도크                           | 5202                                                         | greedy     | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/swexpert/d3/sw_5202.py) |
+| 2021.10.05 | 컨테이너 운반                       | 5201                                                         | greedy     | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/swexpert/d3/sw_5201.py) |
+| 2021.10.05 | 전자카트                            | 5189                                                         | 백트래킹   | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/swexpert/d3/sw_5189.py) |
+| 2021.10.05 | 최소합                              | 5188                                                         | 백트래킹   | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/swexpert/d3/sw_5188.py) |
 | 2021.10.01 | 최대 상금                           | 1244                                                         | 백트래킹   | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d3/sw_1244.py) |
 | 2021.09.30 | 부분 수열의 합                      | 2817                                                         | 백트래킹   | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d3/sw_2817.py) |
 | 2021.09.30 | 화섭이의 정수 나열                  | 3809                                                         |            | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d3/sw_3809.py) |
