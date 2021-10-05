@@ -4,7 +4,7 @@ for t in range(1, test_cases + 1):
     N = int(input().strip())
 
     nums = ''
-    while len(nums) < N:
+    while len(nums) != N:
         nums += ''.join(input().strip().split())
 
     num = 0
