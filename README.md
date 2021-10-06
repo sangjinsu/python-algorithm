@@ -6,6 +6,7 @@
 
 | Date       | type                    | name           |
 | ---------- | ----------------------- | -------------- |
+| 2021.10.06 | sort                    | merge sort     |
 | 2021.08.27 | sort                    | heap sort      |
 | 2021.08.25 | 넖이 우선 탐색          | bfs            |
 | 2021.08.24 | backtracking            | 부분집합, 순열 |
@@ -18,6 +19,7 @@
 
 | Date       | Name        | Site               |                   Type           | Solved                                                       |
 | ---------- | ----------- | --------------------|---------------------------- | ------------------------------------------------------------ |
+| 2021.10.06 | Two Dots | [16929](https://www.acmicpc.net/problem/16929) | dfs | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/boj/graph/boj_16929.py) |
 | 2021.10.05 | 평범한 배낭                           | [12865](https://www.acmicpc.net/problem/12865) | dynamic      | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/boj/dynamic/boj_12865.py) |
 | 2021.10.05 | 회의실 배정 | [1931](https://www.acmicpc.net/problem/1931)   | greedy       | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/boj/greedy/boj_1931.py) |
 | 2021.10.01 | 퇴사 | [14501](https://www.acmicpc.net/problem/14501) | recursion | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/recursion/boj_14501.py) |
@@ -145,6 +147,7 @@
 ## D3
 | Date       | Name                                | Site                                                         | Type       | Solved                                                       |
 | ---------- | ----------------------------------- | ------------------------------------------------------------ | ---------- | ------------------------------------------------------------ |
+| 2021.10.06 | 병합 정렬                           | 5204                                                         | sort       | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/swexpert/d3/sw_5204.py) |
 | 2021.10.05 | 베이비진                            | 5203                                                         | greedy     | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/swexpert/d3/sw_5203.py) |
 | 2021.10.05 | 화물 도크                           | 5202                                                         | greedy     | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/swexpert/d3/sw_5202.py) |
 | 2021.10.05 | 컨테이너 운반                       | 5201                                                         | greedy     | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/swexpert/d3/sw_5201.py) |
