@@ -149,6 +149,8 @@
 ## D3
 | Date       | Name                                | Site                                                         | Type       | Solved                                                       |
 | ---------- | ----------------------------------- | ------------------------------------------------------------ | ---------- | ------------------------------------------------------------ |
+| 2021.10.07 | 항구에 들어오는 배                  | 4371                                                         |            | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/swexpert/d3/sw_4371.py) |
+| 2021.10.07 | 햄버거 다이어트                     | 5215                                                         | 백트래킹   | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/swexpert/d3/sw_5215.py) |
 | 2021.10.07 | 최소 생산 비용                      | 5209                                                         | 백트래킹   | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/swexpert/d3/sw_5209.py) |
 | 2021.10.07 | 전기버스2                           | 5208                                                         | 백트래킹   | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/swexpert/d3/sw_5208.py) |
 | 2021.10.07 | 이진 탐색                           | 5207                                                         | 이진탐색   | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/swexpert/d3/sw_5207.py) |
