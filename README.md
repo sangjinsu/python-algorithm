@@ -6,6 +6,7 @@
 
 | Date       | type                    | name           |
 | ---------- | ----------------------- | -------------- |
+| 2021.06.07 | sort                    | quick sort     |
 | 2021.10.06 | sort                    | merge sort     |
 | 2021.08.27 | sort                    | heap sort      |
 | 2021.08.25 | 넖이 우선 탐색          | bfs            |
@@ -130,6 +131,7 @@
 | Date       | Name                                | Site                                                         | Type           | level | Solved                                                       |
 | ---------- | ----------------------------------- | ------------------------------------------------------------ | -------------- | ----- | ------------------------------------------------------------ |
 | 2021.09.30 | 암호코드 스캔                       | 1242                                                         |                | d5    | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d5/sw_1242.py) |
+| 2021.10.07 | 동철이의 일 분배                    | 1865                                                         | 백트래킹       | d4    | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/swexpert/d4/sw_1865.py) |
 | 2021.09.24 | 물놀이를 가자                       | 10966                                                        | bfs            | d4    | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d4/sw_10966.py) |
 | 2021.09.23 | 사칙연산                            | 1232                                                         | tree           | d4    | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d4/sw_1232.py) |
 | 2021.09.23 | 중위순회                            | 1231                                                         | tree           | d4    | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d4/sw_1231_1.py) |
@@ -147,6 +149,10 @@
 ## D3
 | Date       | Name                                | Site                                                         | Type       | Solved                                                       |
 | ---------- | ----------------------------------- | ------------------------------------------------------------ | ---------- | ------------------------------------------------------------ |
+| 2021.10.07 | 최소 생산 비용                      | 5209                                                         | 백트래킹   | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/swexpert/d3/sw_5209.py) |
+| 2021.10.07 | 전기버스2                           | 5208                                                         | 백트래킹   | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/swexpert/d3/sw_5208.py) |
+| 2021.10.07 | 이진 탐색                           | 5207                                                         | 이진탐색   | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/swexpert/d3/sw_5207.py) |
+| 2021.10.07 | 퀵정렬                              | 5205                                                         | sort       | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/swexpert/d3/sw_5205.py) |
 | 2021.10.06 | 병합 정렬                           | 5204                                                         | sort       | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/swexpert/d3/sw_5204.py) |
 | 2021.10.05 | 베이비진                            | 5203                                                         | greedy     | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/swexpert/d3/sw_5203.py) |
 | 2021.10.05 | 화물 도크                           | 5202                                                         | greedy     | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/swexpert/d3/sw_5202.py) |
@@ -241,3 +247,4 @@
 | 2021.07.20 | 초심자의 회문 검사              | [1989](https://swexpertacademy.com/main/code/problem/problemDetail.do) |                | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d2/sw_1989.py) |
 | 2021.07.20 | 수도 요금 경쟁                  | [1284](https://swexpertacademy.com/main/code/problem/problemDetail.do) |                | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d2/sw_1284.py) |
 | 2021.07.20 | 새로운 불면증 치료법            | [1288](https://swexpertacademy.com/main/code/problem/problemDetail.do) |                | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d2/sw_1288.py) |
+
