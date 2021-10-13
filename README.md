@@ -4,17 +4,22 @@
 
 ## Algorithm
 
-| Date       | type                    | name           |
-| ---------- | ----------------------- | -------------- |
-| 2021.06.07 | sort                    | quick sort     |
-| 2021.10.06 | sort                    | merge sort     |
-| 2021.08.27 | sort                    | heap sort      |
-| 2021.08.25 | 넖이 우선 탐색          | bfs            |
-| 2021.08.24 | backtracking            | 부분집합, 순열 |
-| 2021.08.23 | 깊이 우선 탐색          | dfs            |
-| 2021.08.13 | string pattern matching | boyer-moore    |
-| 2021.08.13 | string pattern matching | kmp            |
-| 2021.08.13 | string pattern matching | rabin-karp     |
+| Date       | type                    | name                |
+| ---------- | ----------------------- | ------------------- |
+| 2021.10.13 | graph                   | 다익스트라 알고리즘 |
+| 2021.10.13 | graph                   | 크루스갈 알고리즘   |
+| 2021.10.13 | graph                   | 프림 알고리즘       |
+| 2021.10.13 | graph                   | 사이클 체크         |
+| 2021.10.13 | graph                   | 서로소 집합         |
+| 2021.10.07 | sort                    | quick sort          |
+| 2021.10.06 | sort                    | merge sort          |
+| 2021.08.27 | sort                    | heap sort           |
+| 2021.08.25 | 넖이 우선 탐색          | bfs                 |
+| 2021.08.24 | backtracking            | 부분집합, 순열      |
+| 2021.08.23 | 깊이 우선 탐색          | dfs                 |
+| 2021.08.13 | string pattern matching | boyer-moore         |
+| 2021.08.13 | string pattern matching | kmp                 |
+| 2021.08.13 | string pattern matching | rabin-karp          |
 
 ## 백준 알고리즘
 
@@ -134,10 +139,10 @@
 | Date       | Name                                | Site                                                         | Type           | level | Solved                                                       |
 | ---------- | ----------------------------------- | ------------------------------------------------------------ | -------------- | ----- | ------------------------------------------------------------ |
 | 2021.09.30 | 암호코드 스캔                       | 1242                                                         |                | d5    | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d5/sw_1242.py) |
-| 2021.10.12 | 정식이의 은행업무                   | 4366                                                         | 완전탐색       | d4    |                                                              |
-| 2021.10.12 | 격자판의 숫자 이어 붙이기           | 2819                                                         | 재귀           | d4    |                                                              |
-| 2021.10.12 | 정사각형 방                         | 1861                                                         | 그리디         | d4    |                                                              |
-| 2021.10.12 | 장훈이의 높은 선반                  | 1486                                                         | 백트래킹       | d4    |                                                              |
+| 2021.10.12 | 정식이의 은행업무                   | 4366                                                         | 완전탐색       | d4    | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/swexpert/d4/sw_4366.py) |
+| 2021.10.12 | 격자판의 숫자 이어 붙이기           | 2819                                                         | 재귀           | d4    | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/swexpert/d4/sw_2819.py) |
+| 2021.10.12 | 정사각형 방                         | 1861                                                         | 그리디         | d4    | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/swexpert/d4/sw_1861.py) |
+| 2021.10.12 | 장훈이의 높은 선반                  | 1486                                                         | 백트래킹       | d4    | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/swexpert/d4/sw_1486.py) |
 | 2021.10.07 | 동철이의 일 분배                    | 1865                                                         | 백트래킹       | d4    | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/swexpert/d4/sw_1865.py) |
 | 2021.09.24 | 물놀이를 가자                       | 10966                                                        | bfs            | d4    | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d4/sw_10966.py) |
 | 2021.09.23 | 사칙연산                            | 1232                                                         | tree           | d4    | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d4/sw_1232.py) |
@@ -156,9 +161,10 @@
 ## D3
 | Date       | Name                                | Site                                                         | Type       | Solved                                                       |
 | ---------- | ----------------------------------- | ------------------------------------------------------------ | ---------- | ------------------------------------------------------------ |
-| 2021.10.13 | 새샘이와 세 소수                    | 5986                                                         | 완전탐색   |                                                              |
-| 2021.10.12 | 최장 증가 부분 수열                 | 3307                                                         | DP         |                                                              |
-| 2021.10.12 | 성공적인 공연 기획                  | 4789                                                         | 그리디     |                                                              |
+| 2021.10.13 | 최장 경로                           | 2814                                                         | DFS        | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/swexpert/d3/sw_2814.py) |
+| 2021.10.13 | 새샘이와 세 소수                    | 5986                                                         | 완전탐색   | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/swexpert/d3/sw_5986.py) |
+| 2021.10.12 | 최장 증가 부분 수열                 | 3307                                                         | DP         | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/swexpert/d3/sw_3307.py) |
+| 2021.10.12 | 성공적인 공연 기획                  | 4789                                                         | 그리디     | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/swexpert/d3/sw_4789.py) |
 | 2021.10.07 | 항구에 들어오는 배                  | 4371                                                         |            | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/swexpert/d3/sw_4371.py) |
 | 2021.10.07 | 햄버거 다이어트                     | 5215                                                         | 백트래킹   | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/swexpert/d3/sw_5215.py) |
 | 2021.10.07 | 최소 생산 비용                      | 5209                                                         | 백트래킹   | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/swexpert/d3/sw_5209.py) |
@@ -215,6 +221,7 @@
 
 | Date       | Name                            | Site                                                         | Type           | Solved                                                       |
 | ---------- | ------------------------------- | ------------------------------------------------------------ | -------------- | ------------------------------------------------------------ |
+| 2021.10.13 |                                 | 2814                                                         |                |                                                              |
 | 2021.10.08 | 쉬운 거스름돈                   | 1970                                                         | greedy         |                                                              |
 | 2021.09.30 | 1일차 - 이진수2                 | 5186                                                         |                |                                                              |
 | 2021.09.30 | 1일차 - 이진수                  | 5185                                                         |                |                                                              |
