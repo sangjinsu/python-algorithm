@@ -134,11 +134,18 @@
 | 2021.09.24 | 수영장      | 1952 | recursion | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/test/sw_1952.py) |
 | 2021.09.24 | 등산로 조정 | 1949 | dfs       | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/test/sw_1949.py) |
 
-## D4 ~ D5
+## D4 ~ D6
 
 | Date       | Name                                | Site                                                         | Type           | level | Solved                                                       |
 | ---------- | ----------------------------------- | ------------------------------------------------------------ | -------------- | ----- | ------------------------------------------------------------ |
+| 2021.10.14 | 인수의 생일 파티                    | 1795                                                         | dijkstra       | d6    | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/swexpert/d6/sw_1795.py) |
 | 2021.09.30 | 암호코드 스캔                       | 1242                                                         |                | d5    | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d5/sw_1242.py) |
+| 2021.10.14 | 창용 마을 무리의 개수               | 7465                                                         | 서로소         | d4    | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/swexpert/d4/sw_7465.py) |
+| 2021.10.14 | 하나로                              | 1251                                                         | dijkstra       | d4    | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/swexpert/d4/sw_1251.py) |
+| 2021.10.14 | 보급로                              | 1249                                                         | bfs            | d4    | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/swexpert/d4/sw_1249.py) |
+| 2021.10.14 | 최소 이동 거리                      | 5251                                                         | dijkstra       | d4    | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/swexpert/d4/sw_5251.py) |
+| 2021.10.14 | 최소 신장 트리                      | 5249                                                         | prim, kruskal  | d4    | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/swexpert/d4/sw_5249.py) |
+| 2021.10.14 | 연산                                | 5247                                                         | bfs            | d4    | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/swexpert/d4/sw_5247.py) |
 | 2021.10.12 | 정식이의 은행업무                   | 4366                                                         | 완전탐색       | d4    | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/swexpert/d4/sw_4366.py) |
 | 2021.10.12 | 격자판의 숫자 이어 붙이기           | 2819                                                         | 재귀           | d4    | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/swexpert/d4/sw_2819.py) |
 | 2021.10.12 | 정사각형 방                         | 1861                                                         | 그리디         | d4    | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/swexpert/d4/sw_1861.py) |
@@ -161,6 +168,8 @@
 ## D3
 | Date       | Name                                | Site                                                         | Type       | Solved                                                       |
 | ---------- | ----------------------------------- | ------------------------------------------------------------ | ---------- | ------------------------------------------------------------ |
+| 2021.10.14 | 최소 비용                           | 5250                                                         | bfs        | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/swexpert/d3/sw_5250.py) |
+| 2021.10.14 | 그룹 나누기                         | 5248                                                         | 서로소     | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/swexpert/d3/sw_5248.py) |
 | 2021.10.13 | 최장 경로                           | 2814                                                         | DFS        | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/swexpert/d3/sw_2814.py) |
 | 2021.10.13 | 새샘이와 세 소수                    | 5986                                                         | 완전탐색   | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/swexpert/d3/sw_5986.py) |
 | 2021.10.12 | 최장 증가 부분 수열                 | 3307                                                         | DP         | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/swexpert/d3/sw_3307.py) |
