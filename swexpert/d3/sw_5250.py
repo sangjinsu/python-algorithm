@@ -1,13 +1,13 @@
-import math
+# 최소비용
 
-# 우 하 좌 상
-dx = [1, 0, -1, 0]
+# 좌 하 우 상
+dx = [-1, 0, 1, 0]
 dy = [0, 1, 0, -1]
 
 
-def bfs(y, x):
-    fuels[y][x] = mat[y][x]
-    queue = [(y, x)]
+def bfs():
+    fuels[0][0] = 0
+    queue = [(0, 0)]
     while queue:
         ny, nx = queue.pop(0)
         for i in range(4):
@@ -25,7 +25,6 @@ test_cases = int(input().strip())
 for t in range(1, test_cases + 1):
     N = int(input().strip())
     mat = [list(map(int, input().strip().split())) for _ in range(N)]
-    fuels = [[math.inf] * N for _ in range(N)]
-    bfs(0, 0)
-    result = fuels[N - 1][N - 1]
-    print('#{} {}'.format(t, result))
+    fuels = [[9999999999] * N for _ in range(N)]
+    bfs()
+    print('#{} {}'.format(t, fuels[N - 1][N - 1]))
