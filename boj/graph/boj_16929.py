@@ -1,5 +1,4 @@
 import sys
-from pprint import pprint
 
 # 상 우 하 좌
 dx = [0, 1, 0, -1]
