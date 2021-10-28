@@ -1,12 +1,17 @@
+import sys
+
+
 def recursion(k):
     global cnt
     if k == N:
         cnt += 1
         if command == 1 and cnt == collect[0]:
-            print(*t)
+            for i in t:
+                sys.stdout.write(str(i) + ' ')
+            sys.stdout.write('\n')
         if command == 2 and t == collect:
-            print(cnt)
-
+            sys.stdout.write(str(cnt))
+        return
     else:
         for i in range(1, N + 1):
             if not visited[i]:
@@ -16,7 +21,7 @@ def recursion(k):
                 visited[i] = False
 
 
-N = int(input().strip())
+N = int(sys.stdin.readline().strip())
 command, *collect = map(int, input().strip().split())
 visited = [False] * (N + 1)
 t = [0] * N
