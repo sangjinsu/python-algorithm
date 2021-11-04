@@ -1,5 +1,3 @@
-import c
-test_cases = 10
 pairs = {
     ')': '(',
     '}': '{',
@@ -7,6 +5,8 @@ pairs = {
     '>': '<',
 
 }
+
+test_cases = 10
 for t in range(1, test_cases + 1):
     N = int(input().strip())
     brackets = input().strip()

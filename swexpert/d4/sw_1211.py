@@ -36,3 +36,42 @@ for t in range(1, testCases + 1):
                 result = x
 
     print('#{} {}'.format(t, result))
+
+# # 우 좌 하
+# dx = [1, -1, 0]
+# dy = [0, 0, 1]
+#
+#
+# def dfs(ny, nx, cnt):
+#     global min_cnt
+#
+#     if cnt > min_cnt:
+#         return
+#
+#     if ny == 99:
+#         min_cnt = min(cnt, min_cnt)
+#         return
+#     mat[ny][nx] = '5'
+#     for i in range(3):
+#         ty, tx = ny + dy[i], nx + dx[i]
+#         if 0 <= ty < 100 and 0 <= tx < 100 and mat[ty][tx] == '1':
+#             dfs(ty, tx, cnt + 1)
+#             break
+#     mat[ny][nx] = '1'
+#
+#
+# testCases = 10
+# for t in range(1, testCases + 1):
+#     N = int(input())
+#     mat = [input().strip().split() for _ in range(100)]
+#     check_cnt = min_cnt = 999999
+#
+#     result = 0
+#     for x in range(100):
+#         if mat[0][x] == '1':
+#             dfs(0, x, 0)
+#             if min_cnt < check_cnt:
+#                 check_cnt = min_cnt
+#                 result = x
+#
+#     print('#{} {}'.format(t, result))
