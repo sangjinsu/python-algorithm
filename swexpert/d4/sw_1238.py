@@ -17,13 +17,12 @@ for t in range(1, test_cases + 1):
     L, S = map(int, input().strip().split())
     data = list(map(int, input().strip().split()))
     graph = dict()
-    node = 0
     for i in range(0, L, 2):
         graph.setdefault(data[i], []).append(data[i + 1])
-        node = max([node, data[i], data[i + 1]])
-    visited = [0] * (node + 1)
 
+    visited = [0] * 101
     bfs(S)
+
     max_value = max(visited)
     result = 0
     for i in range(len(visited)):

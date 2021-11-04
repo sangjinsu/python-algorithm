@@ -4,8 +4,6 @@ from collections import deque
 dx = [0, 0, -1, 1] + [1, 1, -1, -1]
 dy = [-1, 1, 0, 0] + [-1, 1, -1, 1]
 
-test_cases = int(input().strip())
-
 
 def hasStar(y, x):
     for i in range(8):
@@ -16,8 +14,17 @@ def hasStar(y, x):
     return False
 
 
+"""
+X T * T X
+T T * T T
+. * . . *
+. * T T T 
+. * T T X 
+"""
+
+
 def bfs(y, x):
-    Q.append((y, x))
+    Q = deque([(y, x)])
     visited[y][x] = True
     while Q:
         ny, nx = Q.popleft()
@@ -29,11 +36,12 @@ def bfs(y, x):
                     Q.append((ty, tx))
 
 
+test_cases = int(input().strip())
 for t in range(1, test_cases + 1):
     N = int(input().strip())
     mat = [input().strip() for _ in range(N)]
     visited = [[False] * N for _ in range(N)]
-    Q = deque()
+
     result = 0
     for y in range(N):
         for x in range(N):
