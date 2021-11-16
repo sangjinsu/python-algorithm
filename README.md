@@ -25,6 +25,9 @@
 
 | Date       | Name        | Site               |                   Type           | Solved                                                       |
 | ---------- | ----------- | --------------------|---------------------------- | ------------------------------------------------------------ |
+| 2021.11.16 | N과 M (2) | [15650](https://www.acmicpc.net/problem/15650) | recursion | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/boj/graph/boj_15650.py) |
+| 2021.11.16 | N과 M (1) | [15649](https://www.acmicpc.net/problem/15649) | recursion | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/boj/graph/boj_15649.py) |
+| 2021.11.16 | 수 이어 쓰기 1 | [1748](https://www.acmicpc.net/problem/1748) | bruteforce | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/boj/graph/boj_1748.py) |
 | 2021.10.21 | 바이러스 | [2606](https://www.acmicpc.net/problem/2606) | 서로소 | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/boj/graph/boj_2606.py) |
 | 2021.10.21 | 유기농 배추 | [1012](https://www.acmicpc.net/problem/1012) | dfs | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/boj/graph/boj_1012.py) |
 | 2021.10.06 | Two Dots | [16929](https://www.acmicpc.net/problem/16929) | dfs | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/boj/graph/boj_16929.py) |
