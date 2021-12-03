@@ -25,7 +25,11 @@
 
 | Date       | Name        | Site               |                   Type           | Solved                                                       |
 | ---------- | ----------- | --------------------|---------------------------- | ------------------------------------------------------------ |
-| 2021.12.01 | 스타트와 링크 | [14889](https://www.acmicpc.net/problem/14889) | recursion | [solved](https://github.com/sangjinsu/python-algorithm/blob/main/boj/recursion/boj_14889.py) |
+| 2021.12.03 | 부등호 | [2529](https://www.acmicpc.net/problem/2529) | recursion | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/boj/graph/boj_2529.py) |
+| 2021.12.03 | N과 M (5) | [15654](https://www.acmicpc.net/problem/15654) | recursion | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/boj/graph/boj_15654.py) |
+| 2021.12.03 | N과 M (4) | [15652](https://www.acmicpc.net/problem/15652) | recursion | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/boj/graph/boj_15652.py) |
+| 2021.12.03 | N과 M (3) | [15651](https://www.acmicpc.net/problem/15651) | recursion | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/boj/graph/boj_15651.py) |
+| 2021.12.01 | 스타트와 링크 | [14889](https://www.acmicpc.net/problem/14889) | recursion | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/boj/graph/boj_15650.py) |
 | 2021.11.16 | N과 M (2) | [15650](https://www.acmicpc.net/problem/15650) | recursion | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/boj/graph/boj_15650.py) |
 | 2021.11.16 | N과 M (1) | [15649](https://www.acmicpc.net/problem/15649) | recursion | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/boj/graph/boj_15649.py) |
 | 2021.11.16 | 수 이어 쓰기 1 | [1748](https://www.acmicpc.net/problem/1748) | bruteforce | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/boj/graph/boj_1748.py) |
@@ -146,6 +150,7 @@
 | ---------- | ----------------------------------- | ------------------------------------------------------------ | -------------- | ----- | ------------------------------------------------------------ |
 | 2021.10.14 | 인수의 생일 파티                    | 1795                                                         | dijkstra       | d6    | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/swexpert/d6/sw_1795.py) |
 | 2021.09.30 | 암호코드 스캔                       | 1242                                                         |                | d5    | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d5/sw_1242.py) |
+| 2021.12.03 | 동철이의 일 분배                    | 1865                                                         | 백트래킹       | d4    | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/swexpert/d4/sw_1865_2.py) |
 | 2021.11.06 | 혁진이의 프로그램 검증              | 1824                                                         |                | d4    | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/swexpert/d4/sw_1824.py) |
 | 2021.11.06 | 러시아의 국기 같은 깃발             | 4613                                                         |                | d4    | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/swexpert/d4/sw_4613.py) |
 | 2021.11.06 | 빠른 휴대전화 키패드                | 4261                                                         |                | d4    | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/swexpert/d4/sw_4261.py) |
