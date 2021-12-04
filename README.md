@@ -25,14 +25,16 @@
 
 | Date       | Name        | Site               |                   Type           | Solved                                                       |
 | ---------- | ----------- | --------------------|---------------------------- | ------------------------------------------------------------ |
-| 2021.12.03 | 부등호 | [2529](https://www.acmicpc.net/problem/2529) | recursion | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/boj/graph/boj_2529.py) |
-| 2021.12.03 | N과 M (5) | [15654](https://www.acmicpc.net/problem/15654) | recursion | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/boj/graph/boj_15654.py) |
-| 2021.12.03 | N과 M (4) | [15652](https://www.acmicpc.net/problem/15652) | recursion | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/boj/graph/boj_15652.py) |
-| 2021.12.03 | N과 M (3) | [15651](https://www.acmicpc.net/problem/15651) | recursion | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/boj/graph/boj_15651.py) |
-| 2021.12.01 | 스타트와 링크 | [14889](https://www.acmicpc.net/problem/14889) | recursion | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/boj/graph/boj_15650.py) |
-| 2021.11.16 | N과 M (2) | [15650](https://www.acmicpc.net/problem/15650) | recursion | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/boj/graph/boj_15650.py) |
-| 2021.11.16 | N과 M (1) | [15649](https://www.acmicpc.net/problem/15649) | recursion | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/boj/graph/boj_15649.py) |
-| 2021.11.16 | 수 이어 쓰기 1 | [1748](https://www.acmicpc.net/problem/1748) | bruteforce | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/boj/graph/boj_1748.py) |
+| 2021.12.04 | 다음 순열 | [10972](https://www.acmicpc.net/problem/10972) | 순열 | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/boj/permutation/boj_10972.py) |
+| 2021.12.04 | N과 M (6) | [15655](https://www.acmicpc.net/problem/15655) | recursion | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/boj/recursion/boj_15655.py) |
+| 2021.12.03 | 부등호 | [2529](https://www.acmicpc.net/problem/2529) | recursion | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/boj/recursion/boj_2529.py) |
+| 2021.12.03 | N과 M (5) | [15654](https://www.acmicpc.net/problem/15654) | recursion | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/boj/recursion/boj_15654.py) |
+| 2021.12.03 | N과 M (4) | [15652](https://www.acmicpc.net/problem/15652) | recursion | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/boj/recursion/boj_15652.py) |
+| 2021.12.03 | N과 M (3) | [15651](https://www.acmicpc.net/problem/15651) | recursion | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/boj/recursion/boj_15651.py) |
+| 2021.12.01 | 스타트와 링크 | [14889](https://www.acmicpc.net/problem/14889) | recursion | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/boj/recursion/boj_15650.py) |
+| 2021.11.16 | N과 M (2) | [15650](https://www.acmicpc.net/problem/15650) | recursion | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/boj/recursion/boj_15650.py) |
+| 2021.11.16 | N과 M (1) | [15649](https://www.acmicpc.net/problem/15649) | recursion | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/boj/recursion/boj_15649.py) |
+| 2021.11.16 | 수 이어 쓰기 1 | [1748](https://www.acmicpc.net/problem/1748) | bruteforce | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/boj/bruteforce/boj_1748.py) |
 | 2021.10.21 | 바이러스 | [2606](https://www.acmicpc.net/problem/2606) | 서로소 | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/boj/graph/boj_2606.py) |
 | 2021.10.21 | 유기농 배추 | [1012](https://www.acmicpc.net/problem/1012) | dfs | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/boj/graph/boj_1012.py) |
 | 2021.10.06 | Two Dots | [16929](https://www.acmicpc.net/problem/16929) | dfs | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/boj/graph/boj_16929.py) |
