@@ -25,6 +25,12 @@
 
 | Date       | Name        | Site               |                   Type           | Solved                                                       |
 | ---------- | ----------- | --------------------|---------------------------- | ------------------------------------------------------------ |
+| 2021.12.07 | 패션왕 신해빈 | [9375](https://www.acmicpc.net/problem/9375) | math | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/math/boj_9375.py) |
+| 2021.12.07 | 배열 돌리기 1 | [16926](https://www.acmicpc.net/problem/16926) | implement | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/implement/boj_2116.py) |
+| 2021.12.07 | 모든 순열 | [10974](https://www.acmicpc.net/problem/10974) | 순열 | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/boj/permutation/boj_10974.py) |
+| 2021.12.07 | 이전 순열 | [10973](https://www.acmicpc.net/problem/10973) | 순열 | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/boj/permutation/boj_10973.py) |
+| 2021.12.07 | N과 M (8) | [15657](https://www.acmicpc.net/problem/15657) | recursion | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/boj/recursion/boj_15657.py) |
+| 2021.12.07 | N과 M (7) | [15656](https://www.acmicpc.net/problem/15656) | recursion | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/boj/recursion/boj_15656.py) |
 | 2021.12.04 | 다음 순열 | [10972](https://www.acmicpc.net/problem/10972) | 순열 | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/boj/permutation/boj_10972.py) |
 | 2021.12.04 | N과 M (6) | [15655](https://www.acmicpc.net/problem/15655) | recursion | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/boj/recursion/boj_15655.py) |
 | 2021.12.03 | 부등호 | [2529](https://www.acmicpc.net/problem/2529) | recursion | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/boj/recursion/boj_2529.py) |
@@ -58,8 +64,8 @@
 | 2021.09.09 | 연속합 | [1912](https://www.acmicpc.net/problem/1912) | dynamic | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/dynamic/boj_1912.py) |
 | 2021.09.09 | 제곱수의 합 | [1699](https://www.acmicpc.net/problem/1699) | dynamic | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/dynamic/boj_1699.py) |
 | 2021.09.01 | 가장 긴 증가하는 부분 수열 | [11053](https://www.acmicpc.net/problem/11053) | dynamic | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/dynamic/boj_11053.py) |
-| 2021.08.26 | 주사위 쌓기 | [2116](https://www.acmicpc.net/problem/2116) | implement | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/sorting/boj_2116.py) |
-| 2021.08.26 | 스위치 켜고 끄기 | [1244](https://www.acmicpc.net/problem/1244) | implement | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/sorting/boj_1244.py) |
+| 2021.08.26 | 주사위 쌓기 | [2116](https://www.acmicpc.net/problem/2116) | implement | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/implement/boj_2116.py) |
+| 2021.08.26 | 스위치 켜고 끄기 | [1244](https://www.acmicpc.net/problem/1244) | implement | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/implement/boj_1244.py) |
 | 2021.08.25 | 종이 자르기 | [2628](https://www.acmicpc.net/problem/2628) | sorting | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/sorting/boj_2628.py) |
 | 2021.08.25 | 수 이어가기 | [2635](https://www.acmicpc.net/problem/2635) | math | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/math/boj_2635.py) |
 | 2021.08.25 | 직사각형 네 개의 합집합의 면적 구하기 | [2669](https://www.acmicpc.net/problem/2669) | implement | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/implementation/boj_2669.py) |
