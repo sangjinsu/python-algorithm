@@ -27,7 +27,7 @@
 | ---------- | ----------- | --------------------|---------------------------- | ------------------------------------------------------------ |
 | 2021.12.07 | 패션왕 신해빈 | [9375](https://www.acmicpc.net/problem/9375) | math | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/math/boj_9375.py) |
 | 2021.12.07 | 배열 돌리기 1 | [16926](https://www.acmicpc.net/problem/16926) | implement | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/implement/boj_2116.py) |
-| 2021.12.07 | 모든 순열 | [10974](https://www.acmicpc.net/problem/10974) | 순열 | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/boj/permutation/boj_10974.py) |
+| 2021.12.07 | 피보나치 함수                         | [1003](https://www.acmicpc.net/problem/1003)   | dynamic      | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/dynamic/boj_1003.py) |
 | 2021.12.07 | 이전 순열 | [10973](https://www.acmicpc.net/problem/10973) | 순열 | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/boj/permutation/boj_10973.py) |
 | 2021.12.07 | N과 M (8) | [15657](https://www.acmicpc.net/problem/15657) | recursion | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/boj/recursion/boj_15657.py) |
 | 2021.12.07 | N과 M (7) | [15656](https://www.acmicpc.net/problem/15656) | recursion | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/boj/recursion/boj_15656.py) |
