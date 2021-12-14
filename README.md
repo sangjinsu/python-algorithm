@@ -25,6 +25,10 @@
 
 | Date       | Name        | Site               |                   Type           | Solved                                                       |
 | ---------- | ----------- | --------------------|---------------------------- | ------------------------------------------------------------ |
+| 2021.12.14 | RGB거리 | [1149](https://www.acmicpc.net/problem/1149) | dynamic | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/dynamic/boj_1149.py) |
+| 2021.12.14 | 가장 긴 증가하는 부분 수열 3 | [12738](https://www.acmicpc.net/problem/12738) | dynamic | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/dynamic/boj_12738.py) |
+| 2021.12.14 | 가장 긴 증가하는 부분 수열 2 | [12015](https://www.acmicpc.net/problem/12015) | dynamic | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/dynamic/boj_12015.py) |
+| 2021.12.14 | 차이를 최대로 | [10819](https://www.acmicpc.net/problem/10819) | 순열 | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/boj/permutation/boj_10819.py) |
 | 2021.12.07 | 패션왕 신해빈 | [9375](https://www.acmicpc.net/problem/9375) | math | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/math/boj_9375.py) |
 | 2021.12.07 | 배열 돌리기 1 | [16926](https://www.acmicpc.net/problem/16926) | implement | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/implement/boj_2116.py) |
 | 2021.12.07 | 피보나치 함수                         | [1003](https://www.acmicpc.net/problem/1003)   | dynamic      | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/dynamic/boj_1003.py) |
