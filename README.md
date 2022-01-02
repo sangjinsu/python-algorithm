@@ -129,11 +129,11 @@
 
 ### 해쉬
 
-| Date       | Name          | Solved |
-| ---------- | ------------- | ------ |
-| 2021.01.02 | 전화번호 목룍 |        |
-| 2021.01.02 | 위장          |        |
-| 2021.01.02 | 베스트 앨범   |        |
+| Date       | Name          | Solved                                                       |
+| ---------- | ------------- | ------------------------------------------------------------ |
+| 2021.01.02 | 전화번호 목룍 | [solved](https://github.com/sangjinsu/python-algorithm/blob/main/programmers/hash/%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8_%EB%AA%A9%EB%A1%9D.py) |
+| 2021.01.02 | 위장          | [solved](https://github.com/sangjinsu/python-algorithm/blob/main/programmers/hash/%EC%9C%84%EC%9E%A5.py) |
+| 2021.01.02 | 베스트 앨범   | [solved](https://github.com/sangjinsu/python-algorithm/blob/main/programmers/hash/%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94.py) |
 
 
 
