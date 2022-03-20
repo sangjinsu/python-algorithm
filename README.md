@@ -1,6 +1,6 @@
 # python-algorithm
 
-파이썬 알고리즘 문제풀이 
+파이썬 알고리즘 문제풀이
 
 ## Algorithm
 
@@ -135,8 +135,6 @@
 | 2021.01.02 | 위장          | [solved](https://github.com/sangjinsu/python-algorithm/blob/main/programmers/hash/%EC%9C%84%EC%9E%A5.py) |
 | 2021.01.02 | 베스트 앨범   | [solved](https://github.com/sangjinsu/python-algorithm/blob/main/programmers/hash/%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94.py) |
 
-
-
 ### LEVEL 1
 
 | Date       | Name        | Type                                             | Solved                                                       |
@@ -210,6 +208,7 @@
 | 2021.08.12 | [S/W 문제해결 기본] 2일차 - Ladder1 | [1210](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14ABYKADACFAYh) |                | d4    | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d4/sw_1210.py), [better solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d4/sw_1210_1.py) |
 
 ## D3
+
 | Date       | Name                                                      | Site                                                         | Type       | Solved                                                       |
 | ---------- | --------------------------------------------------------- | ------------------------------------------------------------ | ---------- | ------------------------------------------------------------ |
 | 2021.10.21 | 원재의 벽 꾸미기                                          | 1491                                                         |            | [solved](https://github.com/ruslanlvivsky/python-algorithm/blob/main/swexpert/d3/sw_1491.py) |
@@ -277,7 +276,7 @@
 | 2021.07.26 | 모음이 보이지 않는 사람                                   | [4406](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AWNcD_66pUEDFAV8&categoryId=AWNcD_66pUEDFAV8&categoryType=CODE&problemTitle=&orderBy=PASS_RATE&selectCodeLang=PYTHON&select-1=3&pageSize=10&pageIndex=1) |            | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d3/sw_4406.py) |
 | 2021.07.26 | 준환이의 운동관리                                         | [3431](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AWE_ZXcqAAMDFAV2&categoryId=AWE_ZXcqAAMDFAV2&categoryType=CODE&problemTitle=&orderBy=PASS_RATE&selectCodeLang=PYTHON&select-1=3&pageSize=10&pageIndex=1) |            | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/swexpert/d3/sw_3431.py) |
 
-### D2 
+### D2
 
 | Date       | Name                            | Site                                                         | Type           | Solved                                                       |
 | ---------- | ------------------------------- | ------------------------------------------------------------ | -------------- | ------------------------------------------------------------ |
