@@ -1,16 +1,16 @@
 import heapq
 import sys
 
-N = int(sys.stdin.read())
+N = int(sys.stdin.readline())
 
 heap = []
 
 for _ in range(N):
-    num = int(sys.stdin.read())
+    num = int(sys.stdin.readline())
     if num != 0:
         heapq.heappush(heap, -num)
     else:
         if not heap:
-            print(0)
+            sys.stdout.write(str(0) + '\n')
         else:
-            print(-heapq.heappop(heap))
+            sys.stdout.write(str(-heapq.heappop(heap)) + '\n')
