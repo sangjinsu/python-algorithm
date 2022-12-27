@@ -1,14 +1,16 @@
-N = int(input())
+import sys
+
+N = int(sys.stdin.readline().strip())
 
 nums = list()
 for i in range(N):
-    nums.append((int(input()), i))
+    nums.append((int(sys.stdin.readline().strip()), i))
 
 sorted_nums = sorted(nums)
 
 result = 0
 for i in range(N):
-    result = max(result, sorted_nums[i][1] - nums[i][1])
+    result = max(result, sorted_nums[i][1] - i)
 
 result += 1
-print(result)
+sys.stdout.write(str(result))
