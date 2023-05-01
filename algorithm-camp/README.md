@@ -1,6 +1,6 @@
 # 컴공선배 알고리즘 캠프 
 
-## Chapter1. 자료구조 - 배열, 벡터, 연결리스트
+## Chapter1. 자료구조
 
 ### 배열, 벡터(동적 배열)
 
@@ -16,3 +16,30 @@
   - 연결 관계를 변경하면서 삽입, 삭제가 빠르다
 - 탐색: O(N)
   - 첫 노드부터 찾는 값을 가진 노드로 이동하면서 탐색한다
+
+
+### 스택
+
+- FILO, Fist In Last Out
+- 삽입/삭제 : O(1)
+- 탐색: O(N)
+
+### 큐 
+
+- FIFO, First In First Out 
+- 삽입/삭제 : O(1)
+- 탐색: O(N)
+```python
+from collections import deque
+```
+
+### 우선순위 큐
+- 삽입/삭제 : O(logN)
+```python
+import heapq # min-heap
+from queue import PriorityQueue # thread-safe 느린 속도
+```
+
+### 맵, 딕셔너리
+- key, value 
+- key 는 중복되어서는 안된다
