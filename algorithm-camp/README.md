@@ -43,3 +43,8 @@ from queue import PriorityQueue # thread-safe 느린 속도
 ### 맵, 딕셔너리
 - key, value 
 - key 는 중복되어서는 안된다
+- 삽입/삭제 : python, golang Hash Table 사용 O(1)
+
+### 집합
+- 중복 불가
+- 삽입/삭제 : O(1)
