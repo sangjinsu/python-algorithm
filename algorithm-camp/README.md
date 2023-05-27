@@ -74,3 +74,7 @@ from itertools import permutations
 from itertools import combinations
 ```
 
+## Chapter3. 탐욕법
+
+- 매 순간마다 최선의 경우만 골라간다
+- 다른 경우는 고려하지 않으며 다음 또한 고려하지 않는다
