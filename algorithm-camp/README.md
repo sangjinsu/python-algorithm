@@ -111,14 +111,15 @@ from itertools import combinations
 1. 인접 행렬(2차원 배열)
 2. 인접 리스트(딕셔너리 + 리스트)
 
-#### 비교하기 
-인접 행렬은 N2 의 공간 복잡도를 가져가고 중복 데이터가 생긴다. 
-인접 리스트는 반면에 해당 노드 존재 유무를 판단하는데 N 이라는 시간 복잡도를 가진다 
+#### 비교하기
 
-### DFS 
+인접 행렬은 N2 의 공간 복잡도를 가져가고 중복 데이터가 생긴다.
+인접 리스트는 반면에 해당 노드 존재 유무를 판단하는데 N 이라는 시간 복잡도를 가진다
 
-- 깊이 우선 탐색 
-- stack, recursion 을 활용하여 구현한다 
+### DFS
+
+- 깊이 우선 탐색
+- stack, recursion 을 활용하여 구현한다
 
 ```python
 def dfs(now):
@@ -126,3 +127,45 @@ def dfs(now):
         if adj[now][nxt]:
             dfs(nxt)
 ```
+
+### BFS
+
+- 너비 우선 탐색
+- 큐를 사용해서 구현
+
+```python
+from collections import deque
+
+
+def bfs():
+    q = deque()
+    q.append(0)
+    while q:
+        now = q.popleft()
+        for nxt in range(13):
+            if adj[now][nxt]:
+                q.append(nxt)
+```
+
+### DFS && BFS
+
+#### 인접 행렬 vs 인접 리스트
+
+- 인접 행렬 : O(v^2)
+- 인접 리스트: O(V+E)
+
+## 방향값
+
+```python
+dx = [1, 0, -1, 0]
+dy = [0, 1, 0, -1]
+```
+
+### 백트래킹
+
+- 가지치기를 통해 탐색 경우의 수를 줄이는 방법이다 
+
+
+
+
+
