@@ -5,13 +5,11 @@ if __name__ == '__main__':
     budgets = list(map(int, sys.stdin.readline().split()))
     max_budget = int(sys.stdin.readline().strip())
 
-    total_budgets = sum(budgets)
-
     left = 0
     right = max(budgets)
-    mid = (left + right) // 2
     result = 0
     while left <= right:
+        mid = (left + right) // 2
         total = 0
         for budget in budgets:
             if budget > mid:
@@ -25,6 +23,6 @@ if __name__ == '__main__':
             result = mid
             left = mid + 1
 
-        mid = (left + right) // 2
+
 
     sys.stdout.write(str(result))
