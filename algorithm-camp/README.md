@@ -182,7 +182,33 @@ from bisect import bisect_left, bisect_right
 - 최적화 문제 Optimization Problem
     - 문제 상황을 만족하는 변수의 최소값, 최대값을 구하는 문제
 - 결정 문제 Decision Problem
-- 매개변수가 주어지면 true, false 가 결정되어야 한다 
-- 가능한 해의 영역이 연속적이어야 한다 
-- 범위를 절반으로 줄이면서 가운데 값이 true, false 인지 구한다 
+- 매개변수가 주어지면 true, false 가 결정되어야 한다
+- 가능한 해의 영역이 연속적이어야 한다
+- 범위를 절반으로 줄이면서 가운데 값이 true, false 인지 구한다
 - 이진 탐색과 같은 원리이다
+
+## Chapter6. 동적 계획법, Dynamic Programming
+
+- 문제를 작게 나누어 작은 문제의 답을 구하고, 더 큰 문제의 답을 구한다
+
+### DP 두가지 구현 방법
+
+#### Top-Down
+
+- 구현 : 재귀
+- 저장 방식 : 메모이제이션 Memoization
+
+#### Bottom-Up
+
+- 구현 : 반복문
+- 저장 방식 : 타뷸레이션 Tabulation
+
+### Memoiztion, Top-Down
+
+- 부분 문제들의 답을 한 번 구하면 다시 구하지 않도록 캐시에 저장하여 사용하는 방법
+- 필요한 부분의 문제들만 구한다 - Lazy Evaluation
+
+### Tabulation, Buttom-Up
+
+- 부분 문제들의 답을 미리 다 구한다 
+- 테이블을 채워나가는 방식 - 타뷸레이션 
