@@ -1,6 +1,8 @@
 import sys
 
 sys.setrecursionlimit(10 ** 7)
+
+
 def recursion(results, n: int, k: int):
     if results.get((n, k)):
         return results.get((n, k))
@@ -11,6 +13,7 @@ def recursion(results, n: int, k: int):
 
     results[(n, k)] = recursion(results, n - 1, k - 1) + recursion(results, n - 1, k)
     return results[(n, k)]
+
 
 if __name__ == '__main__':
     N, K = map(int, sys.stdin.readline().split())
